@@ -1,0 +1,2111 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="El Garage">
+    <display-name lang="es">El Garage</display-name>
+    <url>http://www.buscadorcablevision.com.ar</url>
+  </channel>
+  <channel id="26 TV">
+    <display-name lang="es">26 TV</display-name>
+    <url>http://www.buscadorcablevision.com.ar</url>
+  </channel>
+  <channel id="Telemax">
+    <display-name lang="es">Telemax</display-name>
+    <url>http://www.buscadorcablevision.com.ar</url>
+  </channel>
+  <channel id="Canal 24 Horas (TVE)">
+    <display-name lang="es">Canal 24 Horas (TVE)</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal TeleMadrid">
+    <display-name lang="es">Canal TeleMadrid</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Aragon TV">
+    <display-name lang="es">Aragon TV</display-name>
+    <url>http://www.vodafone.es</url>
+  </channel>
+  <channel id="Canal Bloomberg">
+    <display-name lang="es">Canal Bloomberg</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Euronews">
+    <display-name lang="es">Euronews</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="TNT Sports">
+    <display-name lang="es">TNT Sports</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Fox Sports Premium">
+    <display-name lang="es">Fox Sports Premium</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Cartoon Network USA - Pacific Feed">
+    <display-name lang="en">Cartoon Network USA - Pacific Feed</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <programme start="20210619000000 -0300" stop="20210619003000 -0300" channel="El Garage">
+    <title lang="es">El expreso TV</title>
+  </programme>
+  <programme start="20210619003000 -0300" stop="20210619010000 -0300" channel="El Garage">
+    <title lang="es">Piloto Amateur</title>
+  </programme>
+  <programme start="20210619010000 -0300" stop="20210619013000 -0300" channel="El Garage">
+    <title lang="es">El potro 4x4</title>
+  </programme>
+  <programme start="20210619013000 -0300" stop="20210619021500 -0300" channel="El Garage">
+    <title lang="es">El Garage</title>
+  </programme>
+  <programme start="20210619021500 -0300" stop="20210619023000 -0300" channel="El Garage">
+    <title lang="es">Mech Tech Racing</title>
+  </programme>
+  <programme start="20210619023000 -0300" stop="20210619030000 -0300" channel="El Garage">
+    <title lang="es">Top Motor</title>
+  </programme>
+  <programme start="20210619030000 -0300" stop="20210619033000 -0300" channel="El Garage">
+    <title lang="es">Raid 4x4</title>
+  </programme>
+  <programme start="20210619033000 -0300" stop="20210619043000 -0300" channel="El Garage">
+    <title lang="es">Holy Wheels</title>
+  </programme>
+  <programme start="20210619043000 -0300" stop="20210619050000 -0300" channel="El Garage">
+    <title lang="es">IMSA - El camino a la velocidad</title>
+  </programme>
+  <programme start="20210619050000 -0300" stop="20210619053000 -0300" channel="El Garage">
+    <title lang="es">Sub 99</title>
+  </programme>
+  <programme start="20210619053000 -0300" stop="20210619060000 -0300" channel="El Garage">
+    <title lang="es">Motos Garage TV</title>
+  </programme>
+  <programme start="20210619060000 -0300" stop="20210619063000 -0300" channel="El Garage">
+    <title lang="es">Pruébame</title>
+  </programme>
+  <programme start="20210619063000 -0300" stop="20210619070000 -0300" channel="El Garage">
+    <title lang="es">Visión motor</title>
+  </programme>
+  <programme start="20210619070000 -0300" stop="20210619073000 -0300" channel="El Garage">
+    <title lang="es">Fan's Club</title>
+  </programme>
+  <programme start="20210619073000 -0300" stop="20210619080000 -0300" channel="El Garage">
+    <title lang="es">Motorbikes</title>
+  </programme>
+  <programme start="20210619080000 -0300" stop="20210619083000 -0300" channel="El Garage">
+    <title lang="es">Volando por TV</title>
+  </programme>
+  <programme start="20210619083000 -0300" stop="20210619093000 -0300" channel="El Garage">
+    <title lang="es">Retromobile</title>
+  </programme>
+  <programme start="20210619093000 -0300" stop="20210619100000 -0300" channel="El Garage">
+    <title lang="es">El ángel copiloto</title>
+  </programme>
+  <programme start="20210619100000 -0300" stop="20210619103000 -0300" channel="El Garage">
+    <title lang="es">Espíritu de fuego</title>
+  </programme>
+  <programme start="20210619103000 -0300" stop="20210619110000 -0300" channel="El Garage">
+    <title lang="es">Viajero errante</title>
+  </programme>
+  <programme start="20210619110000 -0300" stop="20210619113000 -0300" channel="El Garage">
+    <title lang="es">Planeta camión</title>
+  </programme>
+  <programme start="20210619113000 -0300" stop="20210619120000 -0300" channel="El Garage">
+    <title lang="es">Verko Carreras TV</title>
+  </programme>
+  <programme start="20210619120000 -0300" stop="20210619130000 -0300" channel="El Garage">
+    <title lang="es">Mesa de campeones</title>
+  </programme>
+  <programme start="20210619130000 -0300" stop="20210619133000 -0300" channel="El Garage">
+    <title lang="es">Fast Zone</title>
+  </programme>
+  <programme start="20210619133000 -0300" stop="20210619140000 -0300" channel="El Garage">
+    <title lang="es">España Motoracing</title>
+  </programme>
+  <programme start="20210619140000 -0300" stop="20210619143000 -0300" channel="El Garage">
+    <title lang="es">Dossier</title>
+  </programme>
+  <programme start="20210619143000 -0300" stop="20210619150000 -0300" channel="El Garage">
+    <title lang="es">Un buen plan</title>
+  </programme>
+  <programme start="20210619150000 -0300" stop="20210619160000 -0300" channel="El Garage">
+    <title lang="es">Campeones News</title>
+  </programme>
+  <programme start="20210619160000 -0300" stop="20210619163000 -0300" channel="El Garage">
+    <title lang="es">Zona utilitarios</title>
+  </programme>
+  <programme start="20210619163000 -0300" stop="20210619171500 -0300" channel="El Garage">
+    <title lang="es">El Garage</title>
+  </programme>
+  <programme start="20210619171500 -0300" stop="20210619173000 -0300" channel="El Garage">
+    <title lang="es">Mech Tech Racing</title>
+  </programme>
+  <programme start="20210619173000 -0300" stop="20210619180000 -0300" channel="El Garage">
+    <title lang="es">Mobil 1, the Grid</title>
+  </programme>
+  <programme start="20210619180000 -0300" stop="20210619183000 -0300" channel="El Garage">
+    <title lang="es">RAM</title>
+  </programme>
+  <programme start="20210619183000 -0300" stop="20210619190000 -0300" channel="El Garage">
+    <title lang="es">Museum</title>
+  </programme>
+  <programme start="20210619190000 -0300" stop="20210619193000 -0300" channel="El Garage">
+    <title lang="es">New Tune Up</title>
+  </programme>
+  <programme start="20210619193000 -0300" stop="20210619200000 -0300" channel="El Garage">
+    <title lang="es">Foster Trial</title>
+  </programme>
+  <programme start="20210619200000 -0300" stop="20210619203000 -0300" channel="El Garage">
+    <title lang="es">Viajero errante</title>
+  </programme>
+  <programme start="20210619203000 -0300" stop="20210619210000 -0300" channel="El Garage">
+    <title lang="es">Motor Week</title>
+  </programme>
+  <programme start="20210619210000 -0300" stop="20210619213000 -0300" channel="El Garage">
+    <title lang="es">Customizados</title>
+  </programme>
+  <programme start="20210619213000 -0300" stop="20210619220000 -0300" channel="El Garage">
+    <title lang="es">Paralelo cero</title>
+  </programme>
+  <programme start="20210619220000 -0300" stop="20210619230000 -0300" channel="El Garage">
+    <title lang="es">El Garage retro</title>
+  </programme>
+  <programme start="20210619230000 -0300" stop="20210619233000 -0300" channel="El Garage">
+    <title lang="es">Fórmula 1 - Pit Lane</title>
+  </programme>
+  <programme start="20210619233000 -0300" stop="20210620000000 -0300" channel="El Garage">
+    <title lang="es">Tranka Style</title>
+  </programme>
+  <programme start="20210620000000 -0300" stop="20210620003000 -0300" channel="El Garage">
+    <title lang="es">2HP</title>
+  </programme>
+  <programme start="20210620003000 -0300" stop="20210620010000 -0300" channel="El Garage">
+    <title lang="es">Customizados</title>
+  </programme>
+  <programme start="20210620010000 -0300" stop="20210620013000 -0300" channel="El Garage">
+    <title lang="es">Crash Test</title>
+  </programme>
+  <programme start="20210620013000 -0300" stop="20210620020000 -0300" channel="El Garage">
+    <title lang="es">España Motoracing</title>
+  </programme>
+  <programme start="20210620020000 -0300" stop="20210620023000 -0300" channel="El Garage">
+    <title lang="es">Viajero errante</title>
+  </programme>
+  <programme start="20210620023000 -0300" stop="20210620030000 -0300" channel="El Garage">
+    <title lang="es">Motorbikes</title>
+  </programme>
+  <programme start="20210620030000 -0300" stop="20210620040000 -0300" channel="El Garage">
+    <title lang="es">Campeones News</title>
+  </programme>
+  <programme start="20210620040000 -0300" stop="20210620050000 -0300" channel="El Garage">
+    <title lang="es">Jaguar I-Pace E Trophy</title>
+  </programme>
+  <programme start="20210620050000 -0300" stop="20210620053000 -0300" channel="El Garage">
+    <title lang="es">Mobil 1, the Grid</title>
+  </programme>
+  <programme start="20210620053000 -0300" stop="20210620060000 -0300" channel="El Garage">
+    <title lang="es">El potro 4x4</title>
+  </programme>
+  <programme start="20210620060000 -0300" stop="20210620063000 -0300" channel="El Garage">
+    <title lang="es">Dossier</title>
+  </programme>
+  <programme start="20210620063000 -0300" stop="20210620070000 -0300" channel="El Garage">
+    <title lang="es">Un buen plan</title>
+  </programme>
+  <programme start="20210620070000 -0300" stop="20210620073000 -0300" channel="El Garage">
+    <title lang="es">Body &amp; Paint Shops</title>
+  </programme>
+  <programme start="20210620073000 -0300" stop="20210620080000 -0300" channel="El Garage">
+    <title lang="es">Motos Garage TV</title>
+  </programme>
+  <programme start="20210620080000 -0300" stop="20210620083000 -0300" channel="El Garage">
+    <title lang="es">Autotécnica</title>
+  </programme>
+  <programme start="20210620083000 -0300" stop="20210620090000 -0300" channel="El Garage">
+    <title lang="es">Motor Academy TV</title>
+  </programme>
+  <programme start="20210620090000 -0300" stop="20210620093000 -0300" channel="El Garage">
+    <title lang="es">Esloras</title>
+  </programme>
+  <programme start="20210620093000 -0300" stop="20210620103000 -0300" channel="El Garage">
+    <title lang="es">Holy Wheels</title>
+  </programme>
+  <programme start="20210620103000 -0300" stop="20210620110000 -0300" channel="El Garage">
+    <title lang="es">Espíritu de fuego</title>
+  </programme>
+  <programme start="20210620110000 -0300" stop="20210620113000 -0300" channel="El Garage">
+    <title lang="es">Visión motor</title>
+  </programme>
+  <programme start="20210620113000 -0300" stop="20210620120000 -0300" channel="El Garage">
+    <title lang="es">Desde boxes ya!</title>
+  </programme>
+  <programme start="20210620120000 -0300" stop="20210620123000 -0300" channel="El Garage">
+    <title lang="es">Fan's Club</title>
+  </programme>
+  <programme start="20210620123000 -0300" stop="20210620133000 -0300" channel="El Garage">
+    <title lang="es">Jaguar I-Pace E Trophy</title>
+  </programme>
+  <programme start="20210620133000 -0300" stop="20210620140000 -0300" channel="El Garage">
+    <title lang="es">El Garage Travel</title>
+  </programme>
+  <programme start="20210620140000 -0300" stop="20210620143000 -0300" channel="El Garage">
+    <title lang="es">New Tune Up</title>
+  </programme>
+  <programme start="20210620143000 -0300" stop="20210620150000 -0300" channel="El Garage">
+    <title lang="es">Piloto Amateur</title>
+  </programme>
+  <programme start="20210620150000 -0300" stop="20210620153000 -0300" channel="El Garage">
+    <title lang="es">El aventurero</title>
+  </programme>
+  <programme start="20210620153000 -0300" stop="20210620160000 -0300" channel="El Garage">
+    <title lang="es">Historias de campeones</title>
+  </programme>
+  <programme start="20210620160000 -0300" stop="20210620163000 -0300" channel="El Garage">
+    <title lang="es">Franky Mostro</title>
+  </programme>
+  <programme start="20210620163000 -0300" stop="20210620170000 -0300" channel="El Garage">
+    <title lang="es">Museum</title>
+  </programme>
+  <programme start="20210620170000 -0300" stop="20210620173000 -0300" channel="El Garage">
+    <title lang="es">El ángel copiloto</title>
+  </programme>
+  <programme start="20210620173000 -0300" stop="20210620180000 -0300" channel="El Garage">
+    <title lang="es">2HP</title>
+  </programme>
+  <programme start="20210620180000 -0300" stop="20210620190000 -0300" channel="El Garage">
+    <title lang="es">Mundo pista</title>
+  </programme>
+  <programme start="20210620190000 -0300" stop="20210620193000 -0300" channel="El Garage">
+    <title lang="es">Community Cars</title>
+  </programme>
+  <programme start="20210620193000 -0300" stop="20210620200000 -0300" channel="El Garage">
+    <title lang="es">Volando por TV</title>
+  </programme>
+  <programme start="20210620200000 -0300" stop="20210620203000 -0300" channel="El Garage">
+    <title lang="es">El potro 4x4</title>
+  </programme>
+  <programme start="20210620203000 -0300" stop="20210620210000 -0300" channel="El Garage">
+    <title lang="es">Mobil 1, the Grid</title>
+  </programme>
+  <programme start="20210620210000 -0300" stop="20210620213000 -0300" channel="El Garage">
+    <title lang="es">Chopper's World</title>
+  </programme>
+  <programme start="20210620213000 -0300" stop="20210620220000 -0300" channel="El Garage">
+    <title lang="es">RAM</title>
+  </programme>
+  <programme start="20210620220000 -0300" stop="20210620223000 -0300" channel="El Garage">
+    <title lang="es">Top Motor</title>
+  </programme>
+  <programme start="20210620223000 -0300" stop="20210620230000 -0300" channel="El Garage">
+    <title lang="es">Efe 1</title>
+  </programme>
+  <programme start="20210620230000 -0300" stop="20210620233000 -0300" channel="El Garage">
+    <title lang="es">Pedalearg</title>
+  </programme>
+  <programme start="20210620233000 -0300" stop="20210621000000 -0300" channel="El Garage">
+    <title lang="es">La india motera</title>
+  </programme>
+  <programme start="20210621000000 -0300" stop="20210621003000 -0300" channel="El Garage">
+    <title lang="es">Motonómadas</title>
+  </programme>
+  <programme start="20210621003000 -0300" stop="20210621010000 -0300" channel="El Garage">
+    <title lang="es">Mobil 1, the Grid</title>
+  </programme>
+  <programme start="20210621010000 -0300" stop="20210621020000 -0300" channel="El Garage">
+    <title lang="es">Retromobile</title>
+  </programme>
+  <programme start="20210621020000 -0300" stop="20210621030000 -0300" channel="El Garage">
+    <title lang="es">Jaguar I-Pace E Trophy</title>
+  </programme>
+  <programme start="20210621030000 -0300" stop="20210621033000 -0300" channel="El Garage">
+    <title lang="es">Motorbikes</title>
+  </programme>
+  <programme start="20210621033000 -0300" stop="20210621040000 -0300" channel="El Garage">
+    <title lang="es">Franky Mostro</title>
+  </programme>
+  <programme start="20210621040000 -0300" stop="20210621044500 -0300" channel="El Garage">
+    <title lang="es">El Garage</title>
+  </programme>
+  <programme start="20210621044500 -0300" stop="20210621050000 -0300" channel="El Garage">
+    <title lang="es">Mech Tech Racing</title>
+  </programme>
+  <programme start="20210621050000 -0300" stop="20210621060000 -0300" channel="El Garage">
+    <title lang="es">El Garage retro</title>
+  </programme>
+  <programme start="20210621060000 -0300" stop="20210621063000 -0300" channel="El Garage">
+    <title lang="es">El potro 4x4</title>
+  </programme>
+  <programme start="20210621063000 -0300" stop="20210621070000 -0300" channel="El Garage">
+    <title lang="es">Mission Restore</title>
+  </programme>
+  <programme start="20210621070000 -0300" stop="20210621073000 -0300" channel="El Garage">
+    <title lang="es">Viajero errante</title>
+  </programme>
+  <programme start="20210621073000 -0300" stop="20210621080000 -0300" channel="El Garage">
+    <title lang="es">Crash Test</title>
+  </programme>
+  <programme start="20210621080000 -0300" stop="20210621083000 -0300" channel="El Garage">
+    <title lang="es">Espíritu de fuego</title>
+  </programme>
+  <programme start="20210621083000 -0300" stop="20210621093000 -0300" channel="El Garage">
+    <title lang="es">Campeonato Español Cetelem de Superbike</title>
+  </programme>
+  <programme start="20210621093000 -0300" stop="20210621100000 -0300" channel="El Garage">
+    <title lang="es">Motor Week</title>
+  </programme>
+  <programme start="20210621100000 -0300" stop="20210621103000 -0300" channel="El Garage">
+    <title lang="es">Fórmula 1 - Pit Lane</title>
+  </programme>
+  <programme start="20210621103000 -0300" stop="20210621110000 -0300" channel="El Garage">
+    <title lang="es">Como allá</title>
+  </programme>
+  <programme start="20210621110000 -0300" stop="20210621113000 -0300" channel="El Garage">
+    <title lang="es">El expreso TV</title>
+  </programme>
+  <programme start="20210621113000 -0300" stop="20210621120000 -0300" channel="El Garage">
+    <title lang="es">Autoescaner</title>
+  </programme>
+  <programme start="20210621120000 -0300" stop="20210621130000 -0300" channel="El Garage">
+    <title lang="es">Museum</title>
+  </programme>
+  <programme start="20210621130000 -0300" stop="20210621133000 -0300" channel="El Garage">
+    <title lang="es">El potro 4x4</title>
+  </programme>
+  <programme start="20210621133000 -0300" stop="20210621140000 -0300" channel="El Garage">
+    <title lang="es">Dossier</title>
+  </programme>
+  <programme start="20210621140000 -0300" stop="20210621143000 -0300" channel="El Garage">
+    <title lang="es">Un buen plan</title>
+  </programme>
+  <programme start="20210621143000 -0300" stop="20210621150000 -0300" channel="El Garage">
+    <title lang="es">Zona utilitarios</title>
+  </programme>
+  <programme start="20210621150000 -0300" stop="20210621160000 -0300" channel="El Garage">
+    <title lang="es">Retromobile</title>
+  </programme>
+  <programme start="20210621160000 -0300" stop="20210621163000 -0300" channel="El Garage">
+    <title lang="es">Paralelo cero</title>
+  </programme>
+  <programme start="20210621163000 -0300" stop="20210621173000 -0300" channel="El Garage">
+    <title lang="es">Auto al día</title>
+  </programme>
+  <programme start="20210621173000 -0300" stop="20210621180000 -0300" channel="El Garage">
+    <title lang="es">Motorbikes</title>
+  </programme>
+  <programme start="20210621180000 -0300" stop="20210621183000 -0300" channel="El Garage">
+    <title lang="es">Relatos de viajeros</title>
+  </programme>
+  <programme start="20210621183000 -0300" stop="20210621193000 -0300" channel="El Garage">
+    <title lang="es">Jaguar I-Pace E Trophy</title>
+  </programme>
+  <programme start="20210621193000 -0300" stop="20210621200000 -0300" channel="El Garage">
+    <title lang="es">Viajero errante</title>
+  </programme>
+  <programme start="20210621200000 -0300" stop="20210621203000 -0300" channel="El Garage">
+    <title lang="es">El ángel copiloto</title>
+  </programme>
+  <programme start="20210621203000 -0300" stop="20210621210000 -0300" channel="El Garage">
+    <title lang="es">2HP</title>
+  </programme>
+  <programme start="20210621210000 -0300" stop="20210621213000 -0300" channel="El Garage">
+    <title lang="es">Museum</title>
+  </programme>
+  <programme start="20210621213000 -0300" stop="20210621220000 -0300" channel="El Garage">
+    <title lang="es">Wine Ride</title>
+  </programme>
+  <programme start="20210621220000 -0300" stop="20210621230000 -0300" channel="El Garage">
+    <title lang="es">Holy Wheels</title>
+  </programme>
+  <programme start="20210621230000 -0300" stop="20210621233000 -0300" channel="El Garage">
+    <title lang="es">Motos Garage TV</title>
+  </programme>
+  <programme start="20210621233000 -0300" stop="20210622000000 -0300" channel="El Garage">
+    <title lang="es">Fast Zone</title>
+  </programme>
+  <programme start="20210622000000 -0300" stop="20210622003000 -0300" channel="El Garage">
+    <title lang="es">Franky Mostro</title>
+  </programme>
+  <programme start="20210622003000 -0300" stop="20210622010000 -0300" channel="El Garage">
+    <title lang="es">Foster Trial</title>
+  </programme>
+  <programme start="20210622010000 -0300" stop="20210622013000 -0300" channel="El Garage">
+    <title lang="es">Como allá</title>
+  </programme>
+  <programme start="20210622013000 -0300" stop="20210622020000 -0300" channel="El Garage">
+    <title lang="es">Fórmula 1 - Pit Lane</title>
+  </programme>
+  <programme start="20210622020000 -0300" stop="20210622023000 -0300" channel="El Garage">
+    <title lang="es">El potro 4x4</title>
+  </programme>
+  <programme start="20210622023000 -0300" stop="20210622030000 -0300" channel="El Garage">
+    <title lang="es">Viajero errante</title>
+  </programme>
+  <programme start="20210622030000 -0300" stop="20210622033000 -0300" channel="El Garage">
+    <title lang="es">Motos Garage TV</title>
+  </programme>
+  <programme start="20210622033000 -0300" stop="20210622040000 -0300" channel="El Garage">
+    <title lang="es">2HP</title>
+  </programme>
+  <programme start="20210622040000 -0300" stop="20210622050000 -0300" channel="El Garage">
+    <title lang="es">Holy Wheels</title>
+  </programme>
+  <programme start="20210622050000 -0300" stop="20210622053000 -0300" channel="El Garage">
+    <title lang="es">Motorbikes</title>
+  </programme>
+  <programme start="20210622053000 -0300" stop="20210622063000 -0300" channel="El Garage">
+    <title lang="es">Jaguar I-Pace E Trophy</title>
+  </programme>
+  <programme start="20210622063000 -0300" stop="20210622070000 -0300" channel="El Garage">
+    <title lang="es">Crash Test</title>
+  </programme>
+  <programme start="20210622070000 -0300" stop="20210622080000 -0300" channel="El Garage">
+    <title lang="es">Retromobile</title>
+  </programme>
+  <programme start="20210622080000 -0300" stop="20210622083000 -0300" channel="El Garage">
+    <title lang="es">Pruébame</title>
+  </programme>
+  <programme start="20210622083000 -0300" stop="20210622090000 -0300" channel="El Garage">
+    <title lang="es">Customizados</title>
+  </programme>
+  <programme start="20210622090000 -0300" stop="20210622093000 -0300" channel="El Garage">
+    <title lang="es">Efe 1</title>
+  </programme>
+  <programme start="20210622093000 -0300" stop="20210622100000 -0300" channel="El Garage">
+    <title lang="es">Planeta camión</title>
+  </programme>
+  <programme start="20210622100000 -0300" stop="20210622110000 -0300" channel="El Garage">
+    <title lang="es">Campeonato Español Cetelem de Superbike</title>
+  </programme>
+  <programme start="20210622110000 -0300" stop="20210622113000 -0300" channel="El Garage">
+    <title lang="es">La conquista</title>
+  </programme>
+  <programme start="20210622113000 -0300" stop="20210622123000 -0300" channel="El Garage">
+    <title lang="es">El Garage retro</title>
+  </programme>
+  <programme start="20210622123000 -0300" stop="20210622130000 -0300" channel="El Garage">
+    <title lang="es">RAM</title>
+  </programme>
+  <programme start="20210622130000 -0300" stop="20210622133000 -0300" channel="El Garage">
+    <title lang="es">Mobil 1, the Grid</title>
+  </programme>
+  <programme start="20210622133000 -0300" stop="20210622140000 -0300" channel="El Garage">
+    <title lang="es">Motor Academy TV</title>
+  </programme>
+  <programme start="20210622140000 -0300" stop="20210622143000 -0300" channel="El Garage">
+    <title lang="es">Viajero errante</title>
+  </programme>
+  <programme start="20210622143000 -0300" stop="20210622150000 -0300" channel="El Garage">
+    <title lang="es">Esloras</title>
+  </programme>
+  <programme start="20210622150000 -0300" stop="20210622153000 -0300" channel="El Garage">
+    <title lang="es">Motonómadas</title>
+  </programme>
+  <programme start="20210622153000 -0300" stop="20210622160000 -0300" channel="El Garage">
+    <title lang="es">Fan's Club</title>
+  </programme>
+  <programme start="20210622160000 -0300" stop="20210622163000 -0300" channel="El Garage">
+    <title lang="es">Verko Carreras TV</title>
+  </programme>
+  <programme start="20210622163000 -0300" stop="20210622170000 -0300" channel="El Garage">
+    <title lang="es">Tranka Style</title>
+  </programme>
+  <programme start="20210622170000 -0300" stop="20210622173000 -0300" channel="El Garage">
+    <title lang="es">Customizados</title>
+  </programme>
+  <programme start="20210622173000 -0300" stop="20210622180000 -0300" channel="El Garage">
+    <title lang="es">España Motoracing</title>
+  </programme>
+  <programme start="20210622180000 -0300" stop="20210622183000 -0300" channel="El Garage">
+    <title lang="es">Body &amp; Paint Shops</title>
+  </programme>
+  <programme start="20210622183000 -0300" stop="20210622190000 -0300" channel="El Garage">
+    <title lang="es">Top Motor</title>
+  </programme>
+  <programme start="20210622190000 -0300" stop="20210622193000 -0300" channel="El Garage">
+    <title lang="es">Autotécnica</title>
+  </programme>
+  <programme start="20210622193000 -0300" stop="20210622200000 -0300" channel="El Garage">
+    <title lang="es">AutoXtreme</title>
+  </programme>
+  <programme start="20210622200000 -0300" stop="20210622203000 -0300" channel="El Garage">
+    <title lang="es">Pro10 Elite</title>
+  </programme>
+  <programme start="20210622203000 -0300" stop="20210622213000 -0300" channel="El Garage">
+    <title lang="es">Auto al día</title>
+  </programme>
+  <programme start="20210622213000 -0300" stop="20210622221500 -0300" channel="El Garage">
+    <title lang="es">El Garage</title>
+  </programme>
+  <programme start="20210622221500 -0300" stop="20210622223000 -0300" channel="El Garage">
+    <title lang="es">Mech Tech Racing</title>
+  </programme>
+  <programme start="20210622223000 -0300" stop="20210622230000 -0300" channel="El Garage">
+    <title lang="es">Historias de campeones</title>
+  </programme>
+  <programme start="20210622230000 -0300" stop="20210622233000 -0300" channel="El Garage">
+    <title lang="es">GP Confidential</title>
+  </programme>
+  <programme start="20210622233000 -0300" stop="20210623000000 -0300" channel="El Garage">
+    <title lang="es">Pruébame</title>
+  </programme>
+  <programme start="20210619000000 -0300" stop="20210619040000 -0300" channel="26 TV">
+    <title lang="es">Trasnoche 26</title>
+  </programme>
+  <programme start="20210619040000 -0300" stop="20210619060000 -0300" channel="26 TV">
+    <title lang="es">Noticias de 4 a 6</title>
+  </programme>
+  <programme start="20210619060000 -0300" stop="20210619080000 -0300" channel="26 TV">
+    <title lang="es">Noticias de 6 a 8</title>
+  </programme>
+  <programme start="20210619080000 -0300" stop="20210619100000 -0300" channel="26 TV">
+    <title lang="es">Noticias de 8 a 10</title>
+  </programme>
+  <programme start="20210619100000 -0300" stop="20210619120000 -0300" channel="26 TV">
+    <title lang="es">Noticias de 10 a 12</title>
+  </programme>
+  <programme start="20210619120000 -0300" stop="20210619140000 -0300" channel="26 TV">
+    <title lang="es">Noticias al mediodía</title>
+  </programme>
+  <programme start="20210619140000 -0300" stop="20210619160000 -0300" channel="26 TV">
+    <title lang="es">Noticias de 14 a 16</title>
+  </programme>
+  <programme start="20210619160000 -0300" stop="20210619180000 -0300" channel="26 TV">
+    <title lang="es">Noticias de 16 a 18</title>
+  </programme>
+  <programme start="20210619180000 -0300" stop="20210619200000 -0300" channel="26 TV">
+    <title lang="es">Noticias de 18 a 20</title>
+  </programme>
+  <programme start="20210619200000 -0300" stop="20210619220000 -0300" channel="26 TV">
+    <title lang="es">Noticias de 20 a 22</title>
+  </programme>
+  <programme start="20210619220000 -0300" stop="20210620000000 -0300" channel="26 TV">
+    <title lang="es">Noticias de 22 a 24</title>
+  </programme>
+  <programme start="20210620000000 -0300" stop="20210620040000 -0300" channel="26 TV">
+    <title lang="es">Trasnoche 26</title>
+  </programme>
+  <programme start="20210620040000 -0300" stop="20210620060000 -0300" channel="26 TV">
+    <title lang="es">Noticias de 4 a 6</title>
+  </programme>
+  <programme start="20210620060000 -0300" stop="20210620080000 -0300" channel="26 TV">
+    <title lang="es">Noticias de 6 a 8</title>
+  </programme>
+  <programme start="20210620080000 -0300" stop="20210620100000 -0300" channel="26 TV">
+    <title lang="es">Noticias de 8 a 10</title>
+  </programme>
+  <programme start="20210620100000 -0300" stop="20210620120000 -0300" channel="26 TV">
+    <title lang="es">Noticias de 10 a 12</title>
+  </programme>
+  <programme start="20210620120000 -0300" stop="20210620140000 -0300" channel="26 TV">
+    <title lang="es">Noticias al mediodía</title>
+  </programme>
+  <programme start="20210620140000 -0300" stop="20210620160000 -0300" channel="26 TV">
+    <title lang="es">Noticias de 14 a 16</title>
+  </programme>
+  <programme start="20210620160000 -0300" stop="20210620180000 -0300" channel="26 TV">
+    <title lang="es">Noticias de 16 a 18</title>
+  </programme>
+  <programme start="20210620180000 -0300" stop="20210620200000 -0300" channel="26 TV">
+    <title lang="es">Noticias de 18 a 20</title>
+  </programme>
+  <programme start="20210620200000 -0300" stop="20210620220000 -0300" channel="26 TV">
+    <title lang="es">Noticias de 20 a 22</title>
+  </programme>
+  <programme start="20210620220000 -0300" stop="20210621000000 -0300" channel="26 TV">
+    <title lang="es">Noticias de 22 a 24</title>
+  </programme>
+  <programme start="20210621000000 -0300" stop="20210621040000 -0300" channel="26 TV">
+    <title lang="es">Trasnoche 26</title>
+  </programme>
+  <programme start="20210621040000 -0300" stop="20210621060000 -0300" channel="26 TV">
+    <title lang="es">Noticias de 4 a 6</title>
+  </programme>
+  <programme start="20210621060000 -0300" stop="20210621080000 -0300" channel="26 TV">
+    <title lang="es">Resumen 26</title>
+  </programme>
+  <programme start="20210621080000 -0300" stop="20210621100000 -0300" channel="26 TV">
+    <title lang="es">8 AM sábado</title>
+  </programme>
+  <programme start="20210621100000 -0300" stop="20210621120000 -0300" channel="26 TV">
+    <title lang="es">El diario del sábado</title>
+  </programme>
+  <programme start="20210621120000 -0300" stop="20210621130000 -0300" channel="26 TV">
+    <title lang="es">Fin de semana</title>
+  </programme>
+  <programme start="20210621130000 -0300" stop="20210621140000 -0300" channel="26 TV">
+    <title lang="es">El turismo y la hospitalidad</title>
+  </programme>
+  <programme start="20210621140000 -0300" stop="20210621163000 -0300" channel="26 TV">
+    <title lang="es">Resumen 26</title>
+  </programme>
+  <programme start="20210621163000 -0300" stop="20210621190000 -0300" channel="26 TV">
+    <title lang="es">Me gusta la tarde</title>
+  </programme>
+  <programme start="20210621190000 -0300" stop="20210621210000 -0300" channel="26 TV">
+    <title lang="es">Resumen 26</title>
+  </programme>
+  <programme start="20210621210000 -0300" stop="20210621230000 -0300" channel="26 TV">
+    <title lang="es">Las imágenes más espectaculares</title>
+  </programme>
+  <programme start="20210621230000 -0300" stop="20210622000000 -0300" channel="26 TV">
+    <title lang="es">Resumen 26</title>
+  </programme>
+  <programme start="20210622000000 -0300" stop="20210622010000 -0300" channel="26 TV">
+    <title lang="es">Resumen 26</title>
+  </programme>
+  <programme start="20210622010000 -0300" stop="20210622030000 -0300" channel="26 TV">
+    <title lang="es">Las imágenes más espectaculares</title>
+  </programme>
+  <programme start="20210622030000 -0300" stop="20210622053000 -0300" channel="26 TV">
+    <title lang="es">Me gusta la tarde</title>
+  </programme>
+  <programme start="20210622053000 -0300" stop="20210622080000 -0300" channel="26 TV">
+    <title lang="es">Resumen 26</title>
+  </programme>
+  <programme start="20210622080000 -0300" stop="20210622090000 -0300" channel="26 TV">
+    <title lang="es">Fin de semana</title>
+  </programme>
+  <programme start="20210622090000 -0300" stop="20210622110000 -0300" channel="26 TV">
+    <title lang="es">El diario del domingo</title>
+  </programme>
+  <programme start="20210622110000 -0300" stop="20210622130000 -0300" channel="26 TV">
+    <title lang="es">Fin de semana</title>
+  </programme>
+  <programme start="20210622130000 -0300" stop="20210622150000 -0300" channel="26 TV">
+    <title lang="es">Fútbol sin manchas</title>
+  </programme>
+  <programme start="20210622150000 -0300" stop="20210622170000 -0300" channel="26 TV">
+    <title lang="es">Resumen 26</title>
+  </programme>
+  <programme start="20210622170000 -0300" stop="20210622190000 -0300" channel="26 TV">
+    <title lang="es">Las imágenes más espectaculares</title>
+  </programme>
+  <programme start="20210622190000 -0300" stop="20210622210000 -0300" channel="26 TV">
+    <title lang="es">Fin de semana</title>
+  </programme>
+  <programme start="20210622210000 -0300" stop="20210622220000 -0300" channel="26 TV">
+    <title lang="es">La mirada</title>
+  </programme>
+  <programme start="20210622220000 -0300" stop="20210622230000 -0300" channel="26 TV">
+    <title lang="es">22</title>
+  </programme>
+  <programme start="20210622230000 -0300" stop="20210623000000 -0300" channel="26 TV">
+    <title lang="es">Resumen 26</title>
+  </programme>
+  <programme start="20210619000000 -0300" stop="20210619010000 -0300" channel="Telemax">
+    <title lang="es">Bloopers</title>
+  </programme>
+  <programme start="20210619010000 -0300" stop="20210619070000 -0300" channel="Telemax">
+    <title lang="es">Documental</title>
+  </programme>
+  <programme start="20210619070000 -0300" stop="20210619080000 -0300" channel="Telemax">
+    <title lang="es">Bloopers</title>
+  </programme>
+  <programme start="20210619080000 -0300" stop="20210619090000 -0300" channel="Telemax">
+    <title lang="es">Documental</title>
+  </programme>
+  <programme start="20210619090000 -0300" stop="20210619093000 -0300" channel="Telemax">
+    <title lang="es">Bloopers</title>
+  </programme>
+  <programme start="20210619093000 -0300" stop="20210619110000 -0300" channel="Telemax">
+    <title lang="es">Documental</title>
+  </programme>
+  <programme start="20210619110000 -0300" stop="20210619120000 -0300" channel="Telemax">
+    <title lang="es">Bloopers</title>
+  </programme>
+  <programme start="20210619120000 -0300" stop="20210619130000 -0300" channel="Telemax">
+    <title lang="es">Documental</title>
+  </programme>
+  <programme start="20210619130000 -0300" stop="20210619140000 -0300" channel="Telemax">
+    <title lang="es">Bloopers</title>
+  </programme>
+  <programme start="20210619140000 -0300" stop="20210619160000 -0300" channel="Telemax">
+    <title lang="es">Documental</title>
+  </programme>
+  <programme start="20210619160000 -0300" stop="20210619170000 -0300" channel="Telemax">
+    <title lang="es">Bloopers</title>
+  </programme>
+  <programme start="20210619170000 -0300" stop="20210619190000 -0300" channel="Telemax">
+    <title lang="es">Documental</title>
+  </programme>
+  <programme start="20210619190000 -0300" stop="20210619200000 -0300" channel="Telemax">
+    <title lang="es">Refugio mental</title>
+  </programme>
+  <programme start="20210619200000 -0300" stop="20210619210000 -0300" channel="Telemax">
+    <title lang="es">Bloopers</title>
+  </programme>
+  <programme start="20210619210000 -0300" stop="20210619220000 -0300" channel="Telemax">
+    <title lang="es">Documental</title>
+  </programme>
+  <programme start="20210619220000 -0300" stop="20210619223000 -0300" channel="Telemax">
+    <title lang="es">Bloopers</title>
+  </programme>
+  <programme start="20210619223000 -0300" stop="20210620000000 -0300" channel="Telemax">
+    <title lang="es">Bloopers</title>
+  </programme>
+  <programme start="20210620000000 -0300" stop="20210620010000 -0300" channel="Telemax">
+    <title lang="es">Bloopers</title>
+  </programme>
+  <programme start="20210620010000 -0300" stop="20210620070000 -0300" channel="Telemax">
+    <title lang="es">Documental</title>
+  </programme>
+  <programme start="20210620070000 -0300" stop="20210620080000 -0300" channel="Telemax">
+    <title lang="es">Bloopers</title>
+  </programme>
+  <programme start="20210620080000 -0300" stop="20210620090000 -0300" channel="Telemax">
+    <title lang="es">Documental</title>
+  </programme>
+  <programme start="20210620090000 -0300" stop="20210620093000 -0300" channel="Telemax">
+    <title lang="es">Bloopers</title>
+  </programme>
+  <programme start="20210620093000 -0300" stop="20210620110000 -0300" channel="Telemax">
+    <title lang="es">Documental</title>
+  </programme>
+  <programme start="20210620110000 -0300" stop="20210620120000 -0300" channel="Telemax">
+    <title lang="es">Bloopers</title>
+  </programme>
+  <programme start="20210620120000 -0300" stop="20210620130000 -0300" channel="Telemax">
+    <title lang="es">Documental</title>
+  </programme>
+  <programme start="20210620130000 -0300" stop="20210620140000 -0300" channel="Telemax">
+    <title lang="es">Bloopers</title>
+  </programme>
+  <programme start="20210620140000 -0300" stop="20210620160000 -0300" channel="Telemax">
+    <title lang="es">Documental</title>
+  </programme>
+  <programme start="20210620160000 -0300" stop="20210620170000 -0300" channel="Telemax">
+    <title lang="es">Bloopers</title>
+  </programme>
+  <programme start="20210620170000 -0300" stop="20210620190000 -0300" channel="Telemax">
+    <title lang="es">Documental</title>
+  </programme>
+  <programme start="20210620190000 -0300" stop="20210620200000 -0300" channel="Telemax">
+    <title lang="es">Refugio mental</title>
+  </programme>
+  <programme start="20210620200000 -0300" stop="20210620210000 -0300" channel="Telemax">
+    <title lang="es">Bloopers</title>
+  </programme>
+  <programme start="20210620210000 -0300" stop="20210620220000 -0300" channel="Telemax">
+    <title lang="es">Nuestro ejército</title>
+  </programme>
+  <programme start="20210620220000 -0300" stop="20210620230000 -0300" channel="Telemax">
+    <title lang="es">Documental</title>
+  </programme>
+  <programme start="20210620230000 -0300" stop="20210621000000 -0300" channel="Telemax">
+    <title lang="es">Bloopers</title>
+  </programme>
+  <programme start="20210621000000 -0300" stop="20210621010000 -0300" channel="Telemax">
+    <title lang="es">Bloopers</title>
+  </programme>
+  <programme start="20210621010000 -0300" stop="20210621070000 -0300" channel="Telemax">
+    <title lang="es">Documental</title>
+  </programme>
+  <programme start="20210621070000 -0300" stop="20210621080000 -0300" channel="Telemax">
+    <title lang="es">Bloopers</title>
+  </programme>
+  <programme start="20210621080000 -0300" stop="20210621093000 -0300" channel="Telemax">
+    <title lang="es">Documental</title>
+  </programme>
+  <programme start="20210621093000 -0300" stop="20210621110000 -0300" channel="Telemax">
+    <title lang="es">Luisito comunica</title>
+  </programme>
+  <programme start="20210621110000 -0300" stop="20210621120000 -0300" channel="Telemax">
+    <title lang="es">Bloopers</title>
+  </programme>
+  <programme start="20210621120000 -0300" stop="20210621130000 -0300" channel="Telemax">
+    <title lang="es">Documental</title>
+  </programme>
+  <programme start="20210621130000 -0300" stop="20210621140000 -0300" channel="Telemax">
+    <title lang="es">Bloopers</title>
+  </programme>
+  <programme start="20210621140000 -0300" stop="20210621160000 -0300" channel="Telemax">
+    <title lang="es">Documental</title>
+  </programme>
+  <programme start="20210621160000 -0300" stop="20210621170000 -0300" channel="Telemax">
+    <title lang="es">Bloopers</title>
+  </programme>
+  <programme start="20210621170000 -0300" stop="20210621190000 -0300" channel="Telemax">
+    <title lang="es">Documental</title>
+  </programme>
+  <programme start="20210621190000 -0300" stop="20210621200000 -0300" channel="Telemax">
+    <title lang="es">Refugio mental</title>
+  </programme>
+  <programme start="20210621200000 -0300" stop="20210621210000 -0300" channel="Telemax">
+    <title lang="es">Bloopers</title>
+  </programme>
+  <programme start="20210621210000 -0300" stop="20210621220000 -0300" channel="Telemax">
+    <title lang="es">Te sigo queriendo</title>
+  </programme>
+  <programme start="20210621220000 -0300" stop="20210622000000 -0300" channel="Telemax">
+    <title lang="es">Bloopers</title>
+  </programme>
+  <programme start="20210622000000 -0300" stop="20210622010000 -0300" channel="Telemax">
+    <title lang="es">Bloopers</title>
+  </programme>
+  <programme start="20210622010000 -0300" stop="20210622070000 -0300" channel="Telemax">
+    <title lang="es">Documental</title>
+  </programme>
+  <programme start="20210622070000 -0300" stop="20210622080000 -0300" channel="Telemax">
+    <title lang="es">Bloopers</title>
+  </programme>
+  <programme start="20210622080000 -0300" stop="20210622093000 -0300" channel="Telemax">
+    <title lang="es">Documental</title>
+  </programme>
+  <programme start="20210622093000 -0300" stop="20210622110000 -0300" channel="Telemax">
+    <title lang="es">Luisito comunica</title>
+  </programme>
+  <programme start="20210622110000 -0300" stop="20210622120000 -0300" channel="Telemax">
+    <title lang="es">Bloopers</title>
+  </programme>
+  <programme start="20210622120000 -0300" stop="20210622130000 -0300" channel="Telemax">
+    <title lang="es">Documental</title>
+  </programme>
+  <programme start="20210622130000 -0300" stop="20210622140000 -0300" channel="Telemax">
+    <title lang="es">Bloopers</title>
+  </programme>
+  <programme start="20210622140000 -0300" stop="20210622160000 -0300" channel="Telemax">
+    <title lang="es">Documental</title>
+  </programme>
+  <programme start="20210622160000 -0300" stop="20210622170000 -0300" channel="Telemax">
+    <title lang="es">Bloopers</title>
+  </programme>
+  <programme start="20210622170000 -0300" stop="20210622190000 -0300" channel="Telemax">
+    <title lang="es">Documental</title>
+  </programme>
+  <programme start="20210622190000 -0300" stop="20210622200000 -0300" channel="Telemax">
+    <title lang="es">Refugio mental</title>
+  </programme>
+  <programme start="20210622200000 -0300" stop="20210622210000 -0300" channel="Telemax">
+    <title lang="es">Bloopers</title>
+  </programme>
+  <programme start="20210622210000 -0300" stop="20210622220000 -0300" channel="Telemax">
+    <title lang="es">Documental</title>
+  </programme>
+  <programme start="20210622220000 -0300" stop="20210622230000 -0300" channel="Telemax">
+    <title lang="es">Bloopers</title>
+  </programme>
+  <programme start="20210622230000 -0300" stop="20210623000000 -0300" channel="Telemax">
+    <title lang="es">Documental</title>
+  </programme>
+  <programme start="20210619010000 -0300" stop="20210619090000 -0300" channel="Canal 24 Horas (TVE)">
+    <title lang="es">TD Internacional 24H</title>
+  </programme>
+  <programme start="20210619090000 -0300" stop="20210619113000 -0300" channel="Canal 24 Horas (TVE)">
+    <title lang="es">TD Internacional 24H</title>
+  </programme>
+  <programme start="20210619113000 -0300" stop="20210619193000 -0300" channel="Canal 24 Horas (TVE)">
+    <title lang="es">Zoom net</title>
+  </programme>
+  <programme start="20210619193000 -0300" stop="20210619200000 -0300" channel="Canal 24 Horas (TVE)">
+    <title lang="es">Zoom net</title>
+  </programme>
+  <programme start="20210619200000 -0300" stop="20210620010000 -0300" channel="Canal 24 Horas (TVE)">
+    <title lang="es">Noticias 24h</title>
+  </programme>
+  <programme start="20210620200000 -0300" stop="20210621010000 -0300" channel="Canal 24 Horas (TVE)">
+    <title lang="es">Noticias 24h</title>
+  </programme>
+  <programme start="20210621010000 -0300" stop="20210621020000 -0300" channel="Canal 24 Horas (TVE)">
+    <title lang="es">TD Internacional 24H</title>
+  </programme>
+  <programme start="20210621020000 -0300" stop="20210621100000 -0300" channel="Canal 24 Horas (TVE)">
+    <title lang="es">Noticias 24h</title>
+  </programme>
+  <programme start="20210621100000 -0300" stop="20210621180000 -0300" channel="Canal 24 Horas (TVE)">
+    <title lang="es">Telediario 1a edición</title>
+  </programme>
+  <programme start="20210621180000 -0300" stop="20210622010000 -0300" channel="Canal 24 Horas (TVE)">
+    <title lang="es">Telediario 1a edición</title>
+  </programme>
+  <programme start="20210622090000 -0300" stop="20210622170000 -0300" channel="Canal 24 Horas (TVE)">
+    <title lang="es">TD Internacional 24H</title>
+  </programme>
+  <programme start="20210622170000 -0300" stop="20210623010000 -0300" channel="Canal 24 Horas (TVE)">
+    <title lang="es">TD Internacional 24H</title>
+  </programme>
+  <programme start="20210623090000 -0300" stop="20210623170000 -0300" channel="Canal 24 Horas (TVE)">
+    <title lang="es">Diario 24</title>
+  </programme>
+  <programme start="20210623170000 -0300" stop="20210624010000 -0300" channel="Canal 24 Horas (TVE)">
+    <title lang="es">Diario 24</title>
+  </programme>
+  <programme start="20210619001500 -0300" stop="20210619011000 -0300" channel="Canal TeleMadrid">
+    <title lang="es">Madrid en la mirada</title>
+  </programme>
+  <programme start="20210619011000 -0300" stop="20210619050000 -0300" channel="Canal TeleMadrid">
+    <title lang="es">Zapsports</title>
+  </programme>
+  <programme start="20210619050000 -0300" stop="20210619090000 -0300" channel="Canal TeleMadrid">
+    <title lang="es">Programa a determinar</title>
+  </programme>
+  <programme start="20210619090000 -0300" stop="20210619130000 -0300" channel="Canal TeleMadrid">
+    <title lang="es">Programa a determinar</title>
+  </programme>
+  <programme start="20210619130000 -0300" stop="20210619170000 -0300" channel="Canal TeleMadrid">
+    <title lang="es">Programa a determinar</title>
+  </programme>
+  <programme start="20210619170000 -0300" stop="20210620010000 -0300" channel="Canal TeleMadrid">
+    <title lang="es">Programa a determinar</title>
+  </programme>
+  <programme start="20210620010000 -0300" stop="20210620050000 -0300" channel="Canal TeleMadrid">
+    <title lang="es">Programa a determinar</title>
+  </programme>
+  <programme start="20210620050000 -0300" stop="20210620090000 -0300" channel="Canal TeleMadrid">
+    <title lang="es">Programa a determinar</title>
+  </programme>
+  <programme start="20210620090000 -0300" stop="20210620130000 -0300" channel="Canal TeleMadrid">
+    <title lang="es">Programa a determinar</title>
+  </programme>
+  <programme start="20210620130000 -0300" stop="20210620170000 -0300" channel="Canal TeleMadrid">
+    <title lang="es">Programa a determinar</title>
+  </programme>
+  <programme start="20210620170000 -0300" stop="20210620210000 -0300" channel="Canal TeleMadrid">
+    <title lang="es">Programa a determinar</title>
+  </programme>
+  <programme start="20210620210000 -0300" stop="20210621010000 -0300" channel="Canal TeleMadrid">
+    <title lang="es">Programa a determinar</title>
+  </programme>
+  <programme start="20210619010000 -0300" stop="20210619020000 -0300" channel="Canal Bloomberg">
+    <title lang="es">Gabinete de seguridad</title>
+  </programme>
+  <programme start="20210619020000 -0300" stop="20210619030000 -0300" channel="Canal Bloomberg">
+    <title lang="es">EF Noticias</title>
+  </programme>
+  <programme start="20210619030000 -0300" stop="20210619040000 -0300" channel="Canal Bloomberg">
+    <title lang="es">La nota dura</title>
+  </programme>
+  <programme start="20210619040000 -0300" stop="20210619043000 -0300" channel="Canal Bloomberg">
+    <title lang="es">A Conversation With Leni Robredo</title>
+  </programme>
+  <programme start="20210619043000 -0300" stop="20210619050000 -0300" channel="Canal Bloomberg">
+    <title lang="es">High Flyers</title>
+  </programme>
+  <programme start="20210619050000 -0300" stop="20210619053000 -0300" channel="Canal Bloomberg">
+    <title lang="es">Bloomberg Big Decisions</title>
+  </programme>
+  <programme start="20210619053000 -0300" stop="20210619060000 -0300" channel="Canal Bloomberg">
+    <title lang="es">Studio 1.0</title>
+  </programme>
+  <programme start="20210619060000 -0300" stop="20210619063000 -0300" channel="Canal Bloomberg">
+    <title lang="es">ASEAN Next Generation</title>
+  </programme>
+  <programme start="20210619063000 -0300" stop="20210619070000 -0300" channel="Canal Bloomberg">
+    <title lang="es">The David Rubenstein Show: Peer to Peer Conversations</title>
+  </programme>
+  <programme start="20210619070000 -0300" stop="20210619073000 -0300" channel="Canal Bloomberg">
+    <title lang="es">Bloomberg Big Decisions</title>
+  </programme>
+  <programme start="20210619073000 -0300" stop="20210619080000 -0300" channel="Canal Bloomberg">
+    <title lang="es">A Conversation With Ravi Menon</title>
+  </programme>
+  <programme start="20210619080000 -0300" stop="20210619083000 -0300" channel="Canal Bloomberg">
+    <title lang="es">The David Rubenstein Show: Peer to Peer Conversations</title>
+  </programme>
+  <programme start="20210619083000 -0300" stop="20210619090000 -0300" channel="Canal Bloomberg">
+    <title lang="es">Eye to Eye</title>
+  </programme>
+  <programme start="20210619090000 -0300" stop="20210619093000 -0300" channel="Canal Bloomberg">
+    <title lang="es">Bloomberg Game Changers</title>
+  </programme>
+  <programme start="20210619093000 -0300" stop="20210619100000 -0300" channel="Canal Bloomberg">
+    <title lang="es">The David Rubenstein Show: Peer to Peer Conversations</title>
+  </programme>
+  <programme start="20210619100000 -0300" stop="20210619103000 -0300" channel="Canal Bloomberg">
+    <title lang="es">Bloomberg Big Decisions</title>
+  </programme>
+  <programme start="20210619103000 -0300" stop="20210619110000 -0300" channel="Canal Bloomberg">
+    <title lang="es">A Conversation with Andrés Manuel López Obrador</title>
+  </programme>
+  <programme start="20210619110000 -0300" stop="20210619113000 -0300" channel="Canal Bloomberg">
+    <title lang="es">Studio 1.0</title>
+  </programme>
+  <programme start="20210619113000 -0300" stop="20210619120000 -0300" channel="Canal Bloomberg">
+    <title lang="es">The David Rubenstein Show: Peer to Peer Conversations</title>
+  </programme>
+  <programme start="20210619120000 -0300" stop="20210619123000 -0300" channel="Canal Bloomberg">
+    <title lang="es">Bloomberg Game Changers</title>
+  </programme>
+  <programme start="20210619123000 -0300" stop="20210619130000 -0300" channel="Canal Bloomberg">
+    <title lang="es">The David Rubenstein Show: Peer to Peer Conversations</title>
+  </programme>
+  <programme start="20210619130000 -0300" stop="20210619133000 -0300" channel="Canal Bloomberg">
+    <title lang="es">ASEAN Next Generation</title>
+  </programme>
+  <programme start="20210619133000 -0300" stop="20210619140000 -0300" channel="Canal Bloomberg">
+    <title lang="es">Eye to Eye</title>
+  </programme>
+  <programme start="20210619140000 -0300" stop="20210619143000 -0300" channel="Canal Bloomberg">
+    <title lang="es">The David Rubenstein Show: Peer to Peer Conversations</title>
+  </programme>
+  <programme start="20210619143000 -0300" stop="20210619150000 -0300" channel="Canal Bloomberg">
+    <title lang="es">Eye to Eye</title>
+  </programme>
+  <programme start="20210619150000 -0300" stop="20210619153000 -0300" channel="Canal Bloomberg">
+    <title lang="es">Bloomberg Game Changers</title>
+  </programme>
+  <programme start="20210619153000 -0300" stop="20210619160000 -0300" channel="Canal Bloomberg">
+    <title lang="es">The David Rubenstein Show: Peer to Peer Conversations</title>
+  </programme>
+  <programme start="20210619160000 -0300" stop="20210619163000 -0300" channel="Canal Bloomberg">
+    <title lang="es">Bloomberg Big Decisions</title>
+  </programme>
+  <programme start="20210619163000 -0300" stop="20210619170000 -0300" channel="Canal Bloomberg">
+    <title lang="es">A Conversation with Andrés Manuel López Obrador</title>
+  </programme>
+  <programme start="20210619170000 -0300" stop="20210619173000 -0300" channel="Canal Bloomberg">
+    <title lang="es">Leaders with Lacqua</title>
+  </programme>
+  <programme start="20210619173000 -0300" stop="20210619180000 -0300" channel="Canal Bloomberg">
+    <title lang="es">Good fortunes</title>
+  </programme>
+  <programme start="20210619180000 -0300" stop="20210619183000 -0300" channel="Canal Bloomberg">
+    <title lang="es">Brilliant Ideas</title>
+  </programme>
+  <programme start="20210619183000 -0300" stop="20210619190000 -0300" channel="Canal Bloomberg">
+    <title lang="es">Good fortunes</title>
+  </programme>
+  <programme start="20210619190000 -0300" stop="20210619193000 -0300" channel="Canal Bloomberg">
+    <title lang="es">Tiempo de toros</title>
+  </programme>
+  <programme start="20210619193000 -0300" stop="20210619200000 -0300" channel="Canal Bloomberg">
+    <title lang="es">Bloomberg Front Row: Dinakar Singh, Axon Capital</title>
+  </programme>
+  <programme start="20210619200000 -0300" stop="20210619203000 -0300" channel="Canal Bloomberg">
+    <title lang="es">Factor Fintec</title>
+  </programme>
+  <programme start="20210619203000 -0300" stop="20210619210000 -0300" channel="Canal Bloomberg">
+    <title lang="es">Leaders with Lacqua Goes Green</title>
+  </programme>
+  <programme start="20210619210000 -0300" stop="20210619220000 -0300" channel="Canal Bloomberg">
+    <title lang="es">Bloomberg Wall Street Week</title>
+  </programme>
+  <programme start="20210619220000 -0300" stop="20210619230000 -0300" channel="Canal Bloomberg">
+    <title lang="es">El Financiero Meet Point</title>
+  </programme>
+  <programme start="20210619230000 -0300" stop="20210620000000 -0300" channel="Canal Bloomberg">
+    <title lang="es">Best of Bloomberg Daybreak: Middle East</title>
+  </programme>
+  <programme start="20210620000000 -0300" stop="20210620010000 -0300" channel="Canal Bloomberg">
+    <title lang="es">Gabinete de seguridad</title>
+  </programme>
+  <programme start="20210620010000 -0300" stop="20210620013000 -0300" channel="Canal Bloomberg">
+    <title lang="es">Leaders with Lacqua</title>
+  </programme>
+  <programme start="20210620013000 -0300" stop="20210620020000 -0300" channel="Canal Bloomberg">
+    <title lang="es">Bloomberg Front Row: Barry Sternlicht</title>
+  </programme>
+  <programme start="20210620020000 -0300" stop="20210620023000 -0300" channel="Canal Bloomberg">
+    <title lang="es">A Conversation with Guo Guangchang</title>
+  </programme>
+  <programme start="20210620023000 -0300" stop="20210620030000 -0300" channel="Canal Bloomberg">
+    <title lang="es">Titans at the Table</title>
+  </programme>
+  <programme start="20210620030000 -0300" stop="20210620033000 -0300" channel="Canal Bloomberg">
+    <title lang="es">A Conversation with Mahathir Mohamad</title>
+  </programme>
+  <programme start="20210620033000 -0300" stop="20210620040000 -0300" channel="Canal Bloomberg">
+    <title lang="es">Bloomberg Enterprise</title>
+  </programme>
+  <programme start="20210620040000 -0300" stop="20210620043000 -0300" channel="Canal Bloomberg">
+    <title lang="es">A Conversation with Bill Gross</title>
+  </programme>
+  <programme start="20210620043000 -0300" stop="20210620050000 -0300" channel="Canal Bloomberg">
+    <title lang="es">The Mentor</title>
+  </programme>
+  <programme start="20210620050000 -0300" stop="20210620053000 -0300" channel="Canal Bloomberg">
+    <title lang="es">The David Rubenstein Show: Peer to Peer Conversations</title>
+  </programme>
+  <programme start="20210620053000 -0300" stop="20210620060000 -0300" channel="Canal Bloomberg">
+    <title lang="es">Eye to Eye</title>
+  </programme>
+  <programme start="20210620060000 -0300" stop="20210620063000 -0300" channel="Canal Bloomberg">
+    <title lang="es">Bloomberg Game Changers</title>
+  </programme>
+  <programme start="20210620063000 -0300" stop="20210620070000 -0300" channel="Canal Bloomberg">
+    <title lang="es">The David Rubenstein Show: Peer to Peer Conversations</title>
+  </programme>
+  <programme start="20210620070000 -0300" stop="20210620073000 -0300" channel="Canal Bloomberg">
+    <title lang="es">Bloomberg Big Decisions</title>
+  </programme>
+  <programme start="20210620073000 -0300" stop="20210620080000 -0300" channel="Canal Bloomberg">
+    <title lang="es">A Conversation with Andrés Manuel López Obrador</title>
+  </programme>
+  <programme start="20210620080000 -0300" stop="20210620083000 -0300" channel="Canal Bloomberg">
+    <title lang="es">Studio 1.0</title>
+  </programme>
+  <programme start="20210620083000 -0300" stop="20210620090000 -0300" channel="Canal Bloomberg">
+    <title lang="es">The David Rubenstein Show: Peer to Peer Conversations</title>
+  </programme>
+  <programme start="20210620090000 -0300" stop="20210620093000 -0300" channel="Canal Bloomberg">
+    <title lang="es">Bloomberg Game Changers</title>
+  </programme>
+  <programme start="20210620093000 -0300" stop="20210620100000 -0300" channel="Canal Bloomberg">
+    <title lang="es">The David Rubenstein Show: Peer to Peer Conversations</title>
+  </programme>
+  <programme start="20210620100000 -0300" stop="20210620120000 -0300" channel="Canal Bloomberg">
+    <title lang="es">Elecciones 2021</title>
+  </programme>
+  <programme start="20210620130000 -0300" stop="20210620131500 -0300" channel="Canal Bloomberg">
+    <title lang="es">Corte Informativo</title>
+  </programme>
+  <programme start="20210620131500 -0300" stop="20210620140000 -0300" channel="Canal Bloomberg">
+    <title lang="es">Bloomberg Front Row</title>
+  </programme>
+  <programme start="20210620140000 -0300" stop="20210620141500 -0300" channel="Canal Bloomberg">
+    <title lang="es">Corte Informativo</title>
+  </programme>
+  <programme start="20210620141500 -0300" stop="20210620143000 -0300" channel="Canal Bloomberg">
+    <title lang="es">Studio 1.0</title>
+  </programme>
+  <programme start="20210620143000 -0300" stop="20210620150000 -0300" channel="Canal Bloomberg">
+    <title lang="es">The David Rubenstein Show: Peer to Peer Conversations</title>
+  </programme>
+  <programme start="20210620150000 -0300" stop="20210620151500 -0300" channel="Canal Bloomberg">
+    <title lang="es">Corte Informativo</title>
+  </programme>
+  <programme start="20210620151500 -0300" stop="20210620153000 -0300" channel="Canal Bloomberg">
+    <title lang="es">Bloomberg Game Changers</title>
+  </programme>
+  <programme start="20210620160000 -0300" stop="20210620161500 -0300" channel="Canal Bloomberg">
+    <title lang="es">Corte Informativo</title>
+  </programme>
+  <programme start="20210620161500 -0300" stop="20210620163000 -0300" channel="Canal Bloomberg">
+    <title lang="es">ASEAN Next Generation</title>
+  </programme>
+  <programme start="20210620163000 -0300" stop="20210620170000 -0300" channel="Canal Bloomberg">
+    <title lang="es">Eye to Eye</title>
+  </programme>
+  <programme start="20210620170000 -0300" stop="20210620171500 -0300" channel="Canal Bloomberg">
+    <title lang="es">Corte Informativo</title>
+  </programme>
+  <programme start="20210620171500 -0300" stop="20210620173000 -0300" channel="Canal Bloomberg">
+    <title lang="es">Good fortunes</title>
+  </programme>
+  <programme start="20210620180000 -0300" stop="20210620181500 -0300" channel="Canal Bloomberg">
+    <title lang="es">Corte Informativo</title>
+  </programme>
+  <programme start="20210620181500 -0300" stop="20210620183000 -0300" channel="Canal Bloomberg">
+    <title lang="es">Brilliant Ideas</title>
+  </programme>
+  <programme start="20210620183000 -0300" stop="20210620190000 -0300" channel="Canal Bloomberg">
+    <title lang="es">Leaders with Lacqua</title>
+  </programme>
+  <programme start="20210620190000 -0300" stop="20210621020000 -0300" channel="Canal Bloomberg">
+    <title lang="es">Elecciones 2021</title>
+  </programme>
+  <programme start="20210621190000 -0300" stop="20210622020000 -0300" channel="Canal Bloomberg">
+    <title lang="es">Elecciones 2021</title>
+  </programme>
+  <programme start="20210622020000 -0300" stop="20210622030000 -0300" channel="Canal Bloomberg">
+    <title lang="es">Bloomberg Wall Street Week</title>
+  </programme>
+  <programme start="20210622030000 -0300" stop="20210622050000 -0300" channel="Canal Bloomberg">
+    <title lang="es">Bloomberg Markets: European Open</title>
+  </programme>
+  <programme start="20210622050000 -0300" stop="20210622070000 -0300" channel="Canal Bloomberg">
+    <title lang="es">Bloomberg Surveillance: Early Edition</title>
+  </programme>
+  <programme start="20210622070000 -0300" stop="20210622100000 -0300" channel="Canal Bloomberg">
+    <title lang="es">Bloomberg Surveillance</title>
+  </programme>
+  <programme start="20210622100000 -0300" stop="20210622110000 -0300" channel="Canal Bloomberg">
+    <title lang="es">Bloomberg Markets: The Open</title>
+  </programme>
+  <programme start="20210622110000 -0300" stop="20210622120000 -0300" channel="Canal Bloomberg">
+    <title lang="es">Bloomberg Markets: Americas</title>
+  </programme>
+  <programme start="20210622120000 -0300" stop="20210622130000 -0300" channel="Canal Bloomberg">
+    <title lang="es">Bloomberg Markets: European Close</title>
+  </programme>
+  <programme start="20210622130000 -0300" stop="20210622140000 -0300" channel="Canal Bloomberg">
+    <title lang="es">Bloomberg: Balance of Power</title>
+  </programme>
+  <programme start="20210622140000 -0300" stop="20210622150000 -0300" channel="Canal Bloomberg">
+    <title lang="es">Bloomberg markets</title>
+  </programme>
+  <programme start="20210622150000 -0300" stop="20210622170000 -0300" channel="Canal Bloomberg">
+    <title lang="es">Bloomberg Markets: The Close</title>
+  </programme>
+  <programme start="20210622170000 -0300" stop="20210622180000 -0300" channel="Canal Bloomberg">
+    <title lang="es">Al sonar la campana</title>
+  </programme>
+  <programme start="20210622180000 -0300" stop="20210622190000 -0300" channel="Canal Bloomberg">
+    <title lang="es">Ganadores y perdedores</title>
+  </programme>
+  <programme start="20210622190000 -0300" stop="20210622200000 -0300" channel="Canal Bloomberg">
+    <title lang="es">El financiero a las 17 con Omar Cepeda</title>
+  </programme>
+  <programme start="20210622200000 -0300" stop="20210622210000 -0300" channel="Canal Bloomberg">
+    <title lang="es">El financiero a las 18 con Helena Lozano</title>
+  </programme>
+  <programme start="20210622210000 -0300" stop="20210622220000 -0300" channel="Canal Bloomberg">
+    <title lang="es">El financiero a las 19 con Héctor Jiménez Landín</title>
+  </programme>
+  <programme start="20210622220000 -0300" stop="20210622230000 -0300" channel="Canal Bloomberg">
+    <title lang="es">El financiero a las 20 con Sofía Villalobos</title>
+  </programme>
+  <programme start="20210622230000 -0300" stop="20210623000000 -0300" channel="Canal Bloomberg">
+    <title lang="es">Mesa de análisis con Leonardo Kourchenko</title>
+  </programme>
+  <programme start="20210623010000 -0300" stop="20210623020000 -0300" channel="Canal Bloomberg">
+    <title lang="es">Mesa de análisis con Leonardo Kourchenko</title>
+  </programme>
+  <programme start="20210623020000 -0300" stop="20210623030000 -0300" channel="Canal Bloomberg">
+    <title lang="es">Con Ortega a las 10:00</title>
+  </programme>
+  <programme start="20210623030000 -0300" stop="20210623050000 -0300" channel="Canal Bloomberg">
+    <title lang="es">Bloomberg Markets: European Open</title>
+  </programme>
+  <programme start="20210623050000 -0300" stop="20210623070000 -0300" channel="Canal Bloomberg">
+    <title lang="es">Bloomberg Surveillance: Early Edition</title>
+  </programme>
+  <programme start="20210623070000 -0300" stop="20210623100000 -0300" channel="Canal Bloomberg">
+    <title lang="es">Bloomberg Surveillance</title>
+  </programme>
+  <programme start="20210623100000 -0300" stop="20210623110000 -0300" channel="Canal Bloomberg">
+    <title lang="es">Bloomberg Markets: The Open</title>
+  </programme>
+  <programme start="20210623110000 -0300" stop="20210623120000 -0300" channel="Canal Bloomberg">
+    <title lang="es">Bloomberg Markets: Americas</title>
+  </programme>
+  <programme start="20210623120000 -0300" stop="20210623130000 -0300" channel="Canal Bloomberg">
+    <title lang="es">Bloomberg Markets: European Close</title>
+  </programme>
+  <programme start="20210623130000 -0300" stop="20210623140000 -0300" channel="Canal Bloomberg">
+    <title lang="es">Bloomberg: Balance of Power</title>
+  </programme>
+  <programme start="20210623140000 -0300" stop="20210623150000 -0300" channel="Canal Bloomberg">
+    <title lang="es">Bloomberg markets</title>
+  </programme>
+  <programme start="20210623150000 -0300" stop="20210623170000 -0300" channel="Canal Bloomberg">
+    <title lang="es">Bloomberg Markets: The Close</title>
+  </programme>
+  <programme start="20210623170000 -0300" stop="20210623180000 -0300" channel="Canal Bloomberg">
+    <title lang="es">Al sonar la campana</title>
+  </programme>
+  <programme start="20210623180000 -0300" stop="20210623190000 -0300" channel="Canal Bloomberg">
+    <title lang="es">Ganadores y perdedores</title>
+  </programme>
+  <programme start="20210623190000 -0300" stop="20210623200000 -0300" channel="Canal Bloomberg">
+    <title lang="es">El financiero a las 17 con Omar Cepeda</title>
+  </programme>
+  <programme start="20210623200000 -0300" stop="20210623210000 -0300" channel="Canal Bloomberg">
+    <title lang="es">El financiero a las 18 con Helena Lozano</title>
+  </programme>
+  <programme start="20210623210000 -0300" stop="20210623220000 -0300" channel="Canal Bloomberg">
+    <title lang="es">El financiero a las 19 con Héctor Jiménez Landín</title>
+  </programme>
+  <programme start="20210623220000 -0300" stop="20210623230000 -0300" channel="Canal Bloomberg">
+    <title lang="es">El financiero a las 20 con Sofía Villalobos</title>
+  </programme>
+  <programme start="20210623230000 -0300" stop="20210624000000 -0300" channel="Canal Bloomberg">
+    <title lang="es">Mesa de análisis con Leonardo Kourchenko</title>
+  </programme>
+  <programme start="20210619001500 -0300" stop="20210619002600 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210619002600 -0300" stop="20210619004200 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210619004200 -0300" stop="20210619010000 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210619010000 -0300" stop="20210619011500 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210619011500 -0300" stop="20210619012600 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210619012600 -0300" stop="20210619014100 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210619014100 -0300" stop="20210619014900 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210619014900 -0300" stop="20210619020000 -0300" channel="Euronews">
+    <title lang="es">State of the union</title>
+  </programme>
+  <programme start="20210619020000 -0300" stop="20210619021400 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210619021400 -0300" stop="20210619022600 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210619022600 -0300" stop="20210619023900 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210619023900 -0300" stop="20210619030000 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210619030000 -0300" stop="20210619031600 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210619031600 -0300" stop="20210619032900 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210619032900 -0300" stop="20210619034000 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210619034000 -0300" stop="20210619034700 -0300" channel="Euronews">
+    <title lang="es">State of the union</title>
+  </programme>
+  <programme start="20210619034700 -0300" stop="20210619040000 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210619040000 -0300" stop="20210619041400 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210619041400 -0300" stop="20210619042600 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210619042600 -0300" stop="20210619043500 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210619043500 -0300" stop="20210619044300 -0300" channel="Euronews">
+    <title lang="es">Unreported Europe</title>
+  </programme>
+  <programme start="20210619044300 -0300" stop="20210619050000 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210619050000 -0300" stop="20210619051200 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210619051200 -0300" stop="20210619052500 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210619052500 -0300" stop="20210619054200 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210619054200 -0300" stop="20210619060000 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210619060000 -0300" stop="20210619061600 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210619061600 -0300" stop="20210619062900 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210619062900 -0300" stop="20210619064100 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210619064100 -0300" stop="20210619070000 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210619070000 -0300" stop="20210619071400 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210619071400 -0300" stop="20210619073200 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210619073200 -0300" stop="20210619074800 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210619074800 -0300" stop="20210619080000 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210619080000 -0300" stop="20210619081500 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210619081500 -0300" stop="20210619082600 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210619082600 -0300" stop="20210619083400 -0300" channel="Euronews">
+    <title lang="es">State of the union</title>
+  </programme>
+  <programme start="20210619083400 -0300" stop="20210619084700 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210619084700 -0300" stop="20210619090000 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210619090000 -0300" stop="20210619091400 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210619091400 -0300" stop="20210619092500 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210619092500 -0300" stop="20210619094400 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210619094400 -0300" stop="20210619100000 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210619100000 -0300" stop="20210619101200 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210619101200 -0300" stop="20210619103000 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210619103000 -0300" stop="20210619104500 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210619104500 -0300" stop="20210619110000 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210619110000 -0300" stop="20210619111400 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210619111400 -0300" stop="20210619112600 -0300" channel="Euronews">
+    <title lang="es">State of the union</title>
+  </programme>
+  <programme start="20210619112600 -0300" stop="20210619114200 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210619114200 -0300" stop="20210619120000 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210619120000 -0300" stop="20210619121500 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210619121500 -0300" stop="20210619122800 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210619122800 -0300" stop="20210619124800 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210619124800 -0300" stop="20210619130000 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210619130000 -0300" stop="20210619131600 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210619131600 -0300" stop="20210619133200 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210619133200 -0300" stop="20210619134600 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210619134600 -0300" stop="20210619140000 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210619140000 -0300" stop="20210619141100 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210619141100 -0300" stop="20210619143300 -0300" channel="Euronews">
+    <title lang="es">Unreported Europe</title>
+  </programme>
+  <programme start="20210619143300 -0300" stop="20210619144700 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210619144700 -0300" stop="20210619150000 -0300" channel="Euronews">
+    <title lang="es">State of the union</title>
+  </programme>
+  <programme start="20210619150000 -0300" stop="20210619151500 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210619151500 -0300" stop="20210619153300 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210619153300 -0300" stop="20210619154800 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210619154800 -0300" stop="20210619160000 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210619160000 -0300" stop="20210619161600 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210619161600 -0300" stop="20210619163100 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210619163100 -0300" stop="20210619164700 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210619164700 -0300" stop="20210619170000 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210619170000 -0300" stop="20210619171600 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210619171600 -0300" stop="20210619173000 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210619173000 -0300" stop="20210619174500 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210619174500 -0300" stop="20210619180000 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210619180000 -0300" stop="20210619181700 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210619181700 -0300" stop="20210619183100 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210619183100 -0300" stop="20210619184500 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210619184500 -0300" stop="20210619190000 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210619190000 -0300" stop="20210619191100 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210619191100 -0300" stop="20210619192100 -0300" channel="Euronews">
+    <title lang="es">Unreported Europe</title>
+  </programme>
+  <programme start="20210619192100 -0300" stop="20210619194100 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210619194100 -0300" stop="20210619195100 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210619195100 -0300" stop="20210619200000 -0300" channel="Euronews">
+    <title lang="es">State of the union</title>
+  </programme>
+  <programme start="20210619200000 -0300" stop="20210619201400 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210619201400 -0300" stop="20210619203600 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210619203600 -0300" stop="20210619210000 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210619210000 -0300" stop="20210619211200 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210619211200 -0300" stop="20210619212500 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210619212500 -0300" stop="20210619213800 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210619213800 -0300" stop="20210619214900 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210619214900 -0300" stop="20210619220000 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210619220000 -0300" stop="20210619220800 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210619220800 -0300" stop="20210619221600 -0300" channel="Euronews">
+    <title lang="es">State of the union</title>
+  </programme>
+  <programme start="20210619221600 -0300" stop="20210619222900 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210619222900 -0300" stop="20210619230000 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210619230000 -0300" stop="20210619231200 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210619231200 -0300" stop="20210619232300 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210619232300 -0300" stop="20210619233600 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210619233600 -0300" stop="20210619234700 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210619234700 -0300" stop="20210620000000 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210620000000 -0300" stop="20210620001200 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210620001200 -0300" stop="20210620002400 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210620002400 -0300" stop="20210620003600 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210620003600 -0300" stop="20210620004700 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210620004700 -0300" stop="20210620010000 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210620010000 -0300" stop="20210620011300 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210620011300 -0300" stop="20210620012300 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210620012300 -0300" stop="20210620013700 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210620013700 -0300" stop="20210620015000 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210620015000 -0300" stop="20210620020000 -0300" channel="Euronews">
+    <title lang="es">State of the union</title>
+  </programme>
+  <programme start="20210620020000 -0300" stop="20210620021100 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210620021100 -0300" stop="20210620022600 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210620022600 -0300" stop="20210620023900 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210620023900 -0300" stop="20210620024800 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210620024800 -0300" stop="20210620030000 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210620030000 -0300" stop="20210620030900 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210620030900 -0300" stop="20210620031800 -0300" channel="Euronews">
+    <title lang="es">Unreported Europe</title>
+  </programme>
+  <programme start="20210620031800 -0300" stop="20210620032900 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210620032900 -0300" stop="20210620034900 -0300" channel="Euronews">
+    <title lang="es">State of the union</title>
+  </programme>
+  <programme start="20210620034900 -0300" stop="20210620040000 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210620040000 -0300" stop="20210620041300 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210620041300 -0300" stop="20210620042400 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210620042400 -0300" stop="20210620043700 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210620043700 -0300" stop="20210620044800 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210620044800 -0300" stop="20210620050000 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210620050000 -0300" stop="20210620050800 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210620050800 -0300" stop="20210620051500 -0300" channel="Euronews">
+    <title lang="es">State of the union</title>
+  </programme>
+  <programme start="20210620051500 -0300" stop="20210620052900 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210620052900 -0300" stop="20210620054300 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210620054300 -0300" stop="20210620060000 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210620060000 -0300" stop="20210620061300 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210620061300 -0300" stop="20210620062600 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210620062600 -0300" stop="20210620063700 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210620063700 -0300" stop="20210620064800 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210620064800 -0300" stop="20210620070000 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210620070000 -0300" stop="20210620071500 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210620071500 -0300" stop="20210620072300 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210620072300 -0300" stop="20210620073600 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210620073600 -0300" stop="20210620074800 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210620074800 -0300" stop="20210620080000 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210620080000 -0300" stop="20210620081600 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210620081600 -0300" stop="20210620083100 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210620083100 -0300" stop="20210620084600 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210620084600 -0300" stop="20210620090000 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210620091400 -0300" stop="20210620092600 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210620092600 -0300" stop="20210620093700 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210620093700 -0300" stop="20210620094600 -0300" channel="Euronews">
+    <title lang="es">Unreported Europe</title>
+  </programme>
+  <programme start="20210620094600 -0300" stop="20210620100000 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210620100000 -0300" stop="20210620101800 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210620101800 -0300" stop="20210620103000 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210620103000 -0300" stop="20210620104300 -0300" channel="Euronews">
+    <title lang="es">State of the union</title>
+  </programme>
+  <programme start="20210620104300 -0300" stop="20210620110000 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210620110000 -0300" stop="20210620111600 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210620111600 -0300" stop="20210620113300 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210620113300 -0300" stop="20210620114600 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210620114600 -0300" stop="20210620120000 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210620120000 -0300" stop="20210620121600 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210620121600 -0300" stop="20210620122900 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210620122900 -0300" stop="20210620124600 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210620124600 -0300" stop="20210620130000 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210620130000 -0300" stop="20210620131700 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210620131700 -0300" stop="20210620133600 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210620133600 -0300" stop="20210620134700 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210620134700 -0300" stop="20210620140000 -0300" channel="Euronews">
+    <title lang="es">State of the union</title>
+  </programme>
+  <programme start="20210620140000 -0300" stop="20210620141600 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210620141600 -0300" stop="20210620143100 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210620143100 -0300" stop="20210620144500 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210620144500 -0300" stop="20210620150000 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210620150000 -0300" stop="20210620151500 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210620151500 -0300" stop="20210620153100 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210620153100 -0300" stop="20210620154500 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210620154500 -0300" stop="20210620160000 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210620160000 -0300" stop="20210620161600 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210620161600 -0300" stop="20210620163200 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210620163200 -0300" stop="20210620164600 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210620164600 -0300" stop="20210620170000 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210620170000 -0300" stop="20210620171600 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210620171600 -0300" stop="20210620173000 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210620173000 -0300" stop="20210620174600 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210620174600 -0300" stop="20210620180000 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210620180000 -0300" stop="20210620181700 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210620181700 -0300" stop="20210620183600 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210620183600 -0300" stop="20210620185000 -0300" channel="Euronews">
+    <title lang="es">Euronews Week-End</title>
+  </programme>
+  <programme start="20210620185000 -0300" stop="20210620190000 -0300" channel="Euronews">
+    <title lang="es">State of the union</title>
+  </programme>
+  <programme start="20210620190000 -0300" stop="20210620191400 -0300" channel="Euronews">
+    <title lang="es">Euronews Tonight</title>
+  </programme>
+  <programme start="20210620191400 -0300" stop="20210620192900 -0300" channel="Euronews">
+    <title lang="es">Euronews Tonight</title>
+  </programme>
+  <programme start="20210620192900 -0300" stop="20210620194500 -0300" channel="Euronews">
+    <title lang="es">Euronews Tonight</title>
+  </programme>
+  <programme start="20210620194500 -0300" stop="20210620200000 -0300" channel="Euronews">
+    <title lang="es">Euronews Tonight</title>
+  </programme>
+  <programme start="20210620200000 -0300" stop="20210620201400 -0300" channel="Euronews">
+    <title lang="es">Euronews Tonight</title>
+  </programme>
+  <programme start="20210620201400 -0300" stop="20210620202900 -0300" channel="Euronews">
+    <title lang="es">Euronews Tonight</title>
+  </programme>
+  <programme start="20210620202900 -0300" stop="20210620204700 -0300" channel="Euronews">
+    <title lang="es">Euronews Tonight</title>
+  </programme>
+  <programme start="20210620204700 -0300" stop="20210620210000 -0300" channel="Euronews">
+    <title lang="es">Euronews Tonight</title>
+  </programme>
+  <programme start="20210620210000 -0300" stop="20210620211200 -0300" channel="Euronews">
+    <title lang="es">Euronews Tonight</title>
+  </programme>
+  <programme start="20210620211200 -0300" stop="20210620212400 -0300" channel="Euronews">
+    <title lang="es">Euronews Tonight</title>
+  </programme>
+  <programme start="20210620212400 -0300" stop="20210620213700 -0300" channel="Euronews">
+    <title lang="es">Euronews Tonight</title>
+  </programme>
+  <programme start="20210620213700 -0300" stop="20210620214700 -0300" channel="Euronews">
+    <title lang="es">Euronews Tonight</title>
+  </programme>
+  <programme start="20210620214700 -0300" stop="20210620220000 -0300" channel="Euronews">
+    <title lang="es">State of the union</title>
+  </programme>
+  <programme start="20210620220000 -0300" stop="20210620221600 -0300" channel="Euronews">
+    <title lang="es">Euronews Tonight</title>
+  </programme>
+  <programme start="20210620221600 -0300" stop="20210620223000 -0300" channel="Euronews">
+    <title lang="es">Euronews Tonight</title>
+  </programme>
+  <programme start="20210620223000 -0300" stop="20210620224500 -0300" channel="Euronews">
+    <title lang="es">Euronews Tonight</title>
+  </programme>
+  <programme start="20210620224500 -0300" stop="20210620230000 -0300" channel="Euronews">
+    <title lang="es">Euronews Tonight</title>
+  </programme>
+  <programme start="20210620230000 -0300" stop="20210620231300 -0300" channel="Euronews">
+    <title lang="es">Euronews Tonight</title>
+  </programme>
+  <programme start="20210620231300 -0300" stop="20210620232700 -0300" channel="Euronews">
+    <title lang="es">Euronews Tonight</title>
+  </programme>
+  <programme start="20210620232700 -0300" stop="20210620233800 -0300" channel="Euronews">
+    <title lang="es">Euronews Tonight</title>
+  </programme>
+  <programme start="20210620233800 -0300" stop="20210620234900 -0300" channel="Euronews">
+    <title lang="es">Euronews Tonight</title>
+  </programme>
+  <programme start="20210620234900 -0300" stop="20210621000000 -0300" channel="Euronews">
+    <title lang="es">State of the union</title>
+  </programme>
+  <programme start="20210621000000 -0300" stop="20210621001400 -0300" channel="Euronews">
+    <title lang="es">Good Morning Europe</title>
+  </programme>
+  <programme start="20210621001400 -0300" stop="20210621002900 -0300" channel="Euronews">
+    <title lang="es">Good Morning Europe</title>
+  </programme>
+  <programme start="20210621002900 -0300" stop="20210621004500 -0300" channel="Euronews">
+    <title lang="es">Good Morning Europe</title>
+  </programme>
+  <programme start="20210621004500 -0300" stop="20210621010000 -0300" channel="Euronews">
+    <title lang="es">Good Morning Europe</title>
+  </programme>
+  <programme start="20210619010000 -0300" stop="20210619013000 -0300" channel="TNT Sports">
+    <title lang="es">Artistas del K.O</title>
+  </programme>
+  <programme start="20210619013000 -0300" stop="20210619033000 -0300" channel="TNT Sports">
+    <title lang="es">UEFA Eurocopa 2020</title>
+  </programme>
+  <programme start="20210619033000 -0300" stop="20210619053000 -0300" channel="TNT Sports">
+    <title lang="es">2021: Godoy Cruz vs. River</title>
+  </programme>
+  <programme start="20210619053000 -0300" stop="20210619060000 -0300" channel="TNT Sports">
+    <title lang="es">Todo sobre Diego</title>
+  </programme>
+  <programme start="20210619060000 -0300" stop="20210619070000 -0300" channel="TNT Sports">
+    <title lang="es">Recuerdos de Selección</title>
+  </programme>
+  <programme start="20210619070000 -0300" stop="20210619090000 -0300" channel="TNT Sports">
+    <title lang="es">2021: Gimnasia (LP) vs. Lanús</title>
+  </programme>
+  <programme start="20210619090000 -0300" stop="20210619100000 -0300" channel="TNT Sports">
+    <title lang="es">Interior futbolero</title>
+  </programme>
+  <programme start="20210619100000 -0300" stop="20210619103000 -0300" channel="TNT Sports">
+    <title lang="es">Show pádel</title>
+  </programme>
+  <programme start="20210619103000 -0300" stop="20210619110000 -0300" channel="TNT Sports">
+    <title lang="es">Todo sobre Diego</title>
+  </programme>
+  <programme start="20210619110000 -0300" stop="20210619124500 -0300" channel="TNT Sports">
+    <title lang="es">UEFA Eurocopa 2020</title>
+  </programme>
+  <programme start="20210619124500 -0300" stop="20210619152000 -0300" channel="TNT Sports">
+    <title lang="es">UEFA Eurocopa 2020</title>
+  </programme>
+  <programme start="20210619152000 -0300" stop="20210619171500 -0300" channel="TNT Sports">
+    <title lang="es">UEFA Eurocopa 2020</title>
+  </programme>
+  <programme start="20210619171500 -0300" stop="20210619191000 -0300" channel="TNT Sports">
+    <title lang="es">UEFA Eurocopa 2020</title>
+  </programme>
+  <programme start="20210619191000 -0300" stop="20210619210500 -0300" channel="TNT Sports">
+    <title lang="es">UEFA Eurocopa 2020</title>
+  </programme>
+  <programme start="20210619210500 -0300" stop="20210619230000 -0300" channel="TNT Sports">
+    <title lang="es">UEFA Eurocopa 2020</title>
+  </programme>
+  <programme start="20210619230000 -0300" stop="20210619233000 -0300" channel="TNT Sports">
+    <title lang="es">Todo sobre Diego</title>
+  </programme>
+  <programme start="20210619233000 -0300" stop="20210620000000 -0300" channel="TNT Sports">
+    <title lang="es">Todo sobre Diego</title>
+  </programme>
+  <programme start="20210620000000 -0300" stop="20210620003000 -0300" channel="TNT Sports">
+    <title lang="es">Artistas del K.O</title>
+  </programme>
+  <programme start="20210620003000 -0300" stop="20210620023000 -0300" channel="TNT Sports">
+    <title lang="es">UEFA Eurocopa 2020</title>
+  </programme>
+  <programme start="20210620023000 -0300" stop="20210620043000 -0300" channel="TNT Sports">
+    <title lang="es">2021: Vélez vs. Unión (SF)</title>
+  </programme>
+  <programme start="20210620043000 -0300" stop="20210620053000 -0300" channel="TNT Sports">
+    <title lang="es">Recuerdos de Selección</title>
+  </programme>
+  <programme start="20210620060000 -0300" stop="20210620080000 -0300" channel="TNT Sports">
+    <title lang="es">2021: Boca vs. Defensa y Justicia</title>
+  </programme>
+  <programme start="20210620080000 -0300" stop="20210620100000 -0300" channel="TNT Sports">
+    <title lang="es">2021: San Lorenzo vs. Rosario Central</title>
+  </programme>
+  <programme start="20210620100000 -0300" stop="20210620110000 -0300" channel="TNT Sports">
+    <title lang="es">Pádel</title>
+  </programme>
+  <programme start="20210620110000 -0300" stop="20210620124500 -0300" channel="TNT Sports">
+    <title lang="es">UEFA Eurocopa 2020</title>
+  </programme>
+  <programme start="20210620124500 -0300" stop="20210620152000 -0300" channel="TNT Sports">
+    <title lang="es">UEFA Eurocopa 2020</title>
+  </programme>
+  <programme start="20210620152000 -0300" stop="20210620171500 -0300" channel="TNT Sports">
+    <title lang="es">UEFA Eurocopa 2020</title>
+  </programme>
+  <programme start="20210620171500 -0300" stop="20210620191000 -0300" channel="TNT Sports">
+    <title lang="es">2021: Independiente vs. Boca</title>
+  </programme>
+  <programme start="20210620191000 -0300" stop="20210620210500 -0300" channel="TNT Sports">
+    <title lang="es">UEFA Eurocopa 2020</title>
+  </programme>
+  <programme start="20210620210500 -0300" stop="20210620230000 -0300" channel="TNT Sports">
+    <title lang="es">UEFA Eurocopa 2020</title>
+  </programme>
+  <programme start="20210620230000 -0300" stop="20210621010000 -0300" channel="TNT Sports">
+    <title lang="es">UEFA Eurocopa 2020</title>
+  </programme>
+  <programme start="20210621010000 -0300" stop="20210621030000 -0300" channel="TNT Sports">
+    <title lang="es">2021: Racing vs. Independiente</title>
+  </programme>
+  <programme start="20210621030000 -0300" stop="20210621050000 -0300" channel="TNT Sports">
+    <title lang="es">2021: Huracán vs. Sarmiento (J)</title>
+  </programme>
+  <programme start="20210621050000 -0300" stop="20210621060000 -0300" channel="TNT Sports">
+    <title lang="es">Recuerdos de Selección</title>
+  </programme>
+  <programme start="20210621060000 -0300" stop="20210621070000 -0300" channel="TNT Sports">
+    <title lang="es">Recuerdos de Selección</title>
+  </programme>
+  <programme start="20210621070000 -0300" stop="20210621090000 -0300" channel="TNT Sports">
+    <title lang="es">2021: River vs. Colón</title>
+  </programme>
+  <programme start="20210621090000 -0300" stop="20210621110000 -0300" channel="TNT Sports">
+    <title lang="es">UEFA Eurocopa 2020</title>
+  </programme>
+  <programme start="20210621110000 -0300" stop="20210621113000 -0300" channel="TNT Sports">
+    <title lang="es">Boca</title>
+  </programme>
+  <programme start="20210621113000 -0300" stop="20210621120000 -0300" channel="TNT Sports">
+    <title lang="es">Todo sobre Diego</title>
+  </programme>
+  <programme start="20210621120000 -0300" stop="20210621142000 -0300" channel="TNT Sports">
+    <title lang="es">Halcones y palomas</title>
+  </programme>
+  <programme start="20210621142000 -0300" stop="20210621163000 -0300" channel="TNT Sports">
+    <title lang="es">UAI Urquiza vs. River</title>
+  </programme>
+  <programme start="20210621163000 -0300" stop="20210621170000 -0300" channel="TNT Sports">
+    <title lang="es">Todo sobre Diego</title>
+  </programme>
+  <programme start="20210621170000 -0300" stop="20210621200000 -0300" channel="TNT Sports">
+    <title lang="es">TNT Sports radio continental</title>
+  </programme>
+  <programme start="20210621200000 -0300" stop="20210621210000 -0300" channel="TNT Sports">
+    <title lang="es">TNT Euro América</title>
+  </programme>
+  <programme start="20210621210000 -0300" stop="20210621230000 -0300" channel="TNT Sports">
+    <title lang="es">Boca vs. River</title>
+  </programme>
+  <programme start="20210621230000 -0300" stop="20210621233000 -0300" channel="TNT Sports">
+    <title lang="es">Todo sobre Diego</title>
+  </programme>
+  <programme start="20210621233000 -0300" stop="20210622000000 -0300" channel="TNT Sports">
+    <title lang="es">Show pádel</title>
+  </programme>
+  <programme start="20210622013000 -0300" stop="20210622033000 -0300" channel="TNT Sports">
+    <title lang="es">Colón vs. Racing</title>
+  </programme>
+  <programme start="20210622033000 -0300" stop="20210622053000 -0300" channel="TNT Sports">
+    <title lang="es">2021: Platense vs. San Lorenzo</title>
+  </programme>
+  <programme start="20210622060000 -0300" stop="20210622075000 -0300" channel="TNT Sports">
+    <title lang="es">2021: Boca vs. Atlético Tucumán</title>
+  </programme>
+  <programme start="20210622075000 -0300" stop="20210622095000 -0300" channel="TNT Sports">
+    <title lang="es">UEFA Eurocopa 2020</title>
+  </programme>
+  <programme start="20210622095000 -0300" stop="20210622120000 -0300" channel="TNT Sports">
+    <title lang="es">Boca vs. San Lorenzo</title>
+  </programme>
+  <programme start="20210622120000 -0300" stop="20210622140000 -0300" channel="TNT Sports">
+    <title lang="es">Halcones y palomas</title>
+  </programme>
+  <programme start="20210622140000 -0300" stop="20210622154500 -0300" channel="TNT Sports">
+    <title lang="es">UEFA Eurocopa 2020</title>
+  </programme>
+  <programme start="20210622154500 -0300" stop="20210622180000 -0300" channel="TNT Sports">
+    <title lang="es">UEFA Eurocopa 2020</title>
+  </programme>
+  <programme start="20210622180000 -0300" stop="20210622200000 -0300" channel="TNT Sports">
+    <title lang="es">TNT Sports radio continental</title>
+  </programme>
+  <programme start="20210622200000 -0300" stop="20210622210000 -0300" channel="TNT Sports">
+    <title lang="es">TNT Euro América</title>
+  </programme>
+  <programme start="20210622210000 -0300" stop="20210622230000 -0300" channel="TNT Sports">
+    <title lang="es">UEFA Eurocopa 2020</title>
+  </programme>
+  <programme start="20210622230000 -0300" stop="20210623000000 -0300" channel="TNT Sports">
+    <title lang="es">Palo y afuera</title>
+  </programme>
+</tv>
