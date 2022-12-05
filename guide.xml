@@ -1,0 +1,1391 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="El Garage">
+    <display-name lang="es">El Garage</display-name>
+    <url>http://www.buscadorcablevision.com.ar</url>
+  </channel>
+  <channel id="26 TV">
+    <display-name lang="es">26 TV</display-name>
+    <url>http://www.buscadorcablevision.com.ar</url>
+  </channel>
+  <channel id="Telemax">
+    <display-name lang="es">Telemax</display-name>
+    <url>http://www.buscadorcablevision.com.ar</url>
+  </channel>
+  <channel id="Canal 24 Horas (TVE)">
+    <display-name lang="es">Canal 24 Horas (TVE)</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal TeleMadrid">
+    <display-name lang="es">Canal TeleMadrid</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Aragon TV">
+    <display-name lang="es">Aragon TV</display-name>
+    <url>http://www.vodafone.es</url>
+  </channel>
+  <channel id="Canal Bloomberg">
+    <display-name lang="es">Canal Bloomberg</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Euronews">
+    <display-name lang="es">Euronews</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="TNT Sports">
+    <display-name lang="es">TNT Sports</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Fox Sports Premium">
+    <display-name lang="es">Fox Sports Premium</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Cartoon Network USA - Pacific Feed">
+    <display-name lang="en">Cartoon Network USA - Pacific Feed</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <programme start="20221204003000 -0300" stop="20221204010000 -0300" channel="Canal 24 Horas (TVE)">
+    <title lang="es">TD Internacional 24H</title>
+  </programme>
+  <programme start="20221204010000 -0300" stop="20221204013000 -0300" channel="Canal 24 Horas (TVE)">
+    <title lang="es">TD Internacional 24H</title>
+  </programme>
+  <programme start="20221204013000 -0300" stop="20221204020000 -0300" channel="Canal 24 Horas (TVE)">
+    <title lang="es">TD Internacional 24H</title>
+  </programme>
+  <programme start="20221204020000 -0300" stop="20221204023000 -0300" channel="Canal 24 Horas (TVE)">
+    <title lang="es">TD Internacional 24H</title>
+  </programme>
+  <programme start="20221204023000 -0300" stop="20221204030000 -0300" channel="Canal 24 Horas (TVE)">
+    <title lang="es">Conversatorios en casa de américa</title>
+  </programme>
+  <programme start="20221204030000 -0300" stop="20221204033000 -0300" channel="Canal 24 Horas (TVE)">
+    <title lang="es">Noticias 24h</title>
+  </programme>
+  <programme start="20221204033000 -0300" stop="20221204040000 -0300" channel="Canal 24 Horas (TVE)">
+    <title lang="es">Noticias 24h</title>
+  </programme>
+  <programme start="20221204040000 -0300" stop="20221204043000 -0300" channel="Canal 24 Horas (TVE)">
+    <title lang="es">Noticias 24h</title>
+  </programme>
+  <programme start="20221204043000 -0300" stop="20221204050000 -0300" channel="Canal 24 Horas (TVE)">
+    <title lang="es">Agrosfera</title>
+  </programme>
+  <programme start="20221204050000 -0300" stop="20221204053000 -0300" channel="Canal 24 Horas (TVE)">
+    <title lang="es">Noticias 24h</title>
+  </programme>
+  <programme start="20221204053000 -0300" stop="20221204060000 -0300" channel="Canal 24 Horas (TVE)">
+    <title lang="es">Noticias 24h</title>
+  </programme>
+  <programme start="20221204060000 -0300" stop="20221204063000 -0300" channel="Canal 24 Horas (TVE)">
+    <title lang="es">Noticias 24h</title>
+  </programme>
+  <programme start="20221204063000 -0300" stop="20221204070000 -0300" channel="Canal 24 Horas (TVE)">
+    <title lang="es">Noticias 24h</title>
+  </programme>
+  <programme start="20221204070000 -0300" stop="20221204073000 -0300" channel="Canal 24 Horas (TVE)">
+    <title lang="es">Noticias 24h</title>
+  </programme>
+  <programme start="20221204073000 -0300" stop="20221204080000 -0300" channel="Canal 24 Horas (TVE)">
+    <title lang="es">Noticias 24h</title>
+  </programme>
+  <programme start="20221204080000 -0300" stop="20221204083000 -0300" channel="Canal 24 Horas (TVE)">
+    <title lang="es">Noticias 24h</title>
+  </programme>
+  <programme start="20221204083000 -0300" stop="20221204090000 -0300" channel="Canal 24 Horas (TVE)">
+    <title lang="es">Noticias 24h</title>
+  </programme>
+  <programme start="20221204090000 -0300" stop="20221204093000 -0300" channel="Canal 24 Horas (TVE)">
+    <title lang="es">Noticias 24h</title>
+  </programme>
+  <programme start="20221204093000 -0300" stop="20221204100000 -0300" channel="Canal 24 Horas (TVE)">
+    <title lang="es">Noticias 24h</title>
+  </programme>
+  <programme start="20221204100000 -0300" stop="20221204103000 -0300" channel="Canal 24 Horas (TVE)">
+    <title lang="es">Noticias 24h</title>
+  </programme>
+  <programme start="20221204103000 -0300" stop="20221204110000 -0300" channel="Canal 24 Horas (TVE)">
+    <title lang="es">Parlamento</title>
+  </programme>
+  <programme start="20221204110000 -0300" stop="20221204115100 -0300" channel="Canal 24 Horas (TVE)">
+    <title lang="es">Telediario 1a edición</title>
+  </programme>
+  <programme start="20221204115100 -0300" stop="20221204120000 -0300" channel="Canal 24 Horas (TVE)">
+    <title lang="es">El tiempo mediodia</title>
+  </programme>
+  <programme start="20221204120000 -0300" stop="20221204124500 -0300" channel="Canal 24 Horas (TVE)">
+    <title lang="es">En Portada</title>
+  </programme>
+  <programme start="20221204124500 -0300" stop="20221204130000 -0300" channel="Canal 24 Horas (TVE)">
+    <title lang="es">Zoom net</title>
+  </programme>
+  <programme start="20221204130000 -0300" stop="20221204133000 -0300" channel="Canal 24 Horas (TVE)">
+    <title lang="es">Noticias 24h</title>
+  </programme>
+  <programme start="20221204133000 -0300" stop="20221204140000 -0300" channel="Canal 24 Horas (TVE)">
+    <title lang="es">Noticias 24h</title>
+  </programme>
+  <programme start="20221204140000 -0300" stop="20221204143000 -0300" channel="Canal 24 Horas (TVE)">
+    <title lang="es">Noticias 24h</title>
+  </programme>
+  <programme start="20221204143000 -0300" stop="20221204150000 -0300" channel="Canal 24 Horas (TVE)">
+    <title lang="es">Noticias 24h</title>
+  </programme>
+  <programme start="20221204150000 -0300" stop="20221204153000 -0300" channel="Canal 24 Horas (TVE)">
+    <title lang="es">Noticias 24h</title>
+  </programme>
+  <programme start="20221204153000 -0300" stop="20221204160000 -0300" channel="Canal 24 Horas (TVE)">
+    <title lang="es">Noticias 24h</title>
+  </programme>
+  <programme start="20221204160000 -0300" stop="20221204163000 -0300" channel="Canal 24 Horas (TVE)">
+    <title lang="es">Noticias 24h</title>
+  </programme>
+  <programme start="20221204163000 -0300" stop="20221204170000 -0300" channel="Canal 24 Horas (TVE)">
+    <title lang="es">Noticias 24h</title>
+  </programme>
+  <programme start="20221204170000 -0300" stop="20221204175000 -0300" channel="Canal 24 Horas (TVE)">
+    <title lang="es">Telediario 2a. Edición</title>
+  </programme>
+  <programme start="20221204175000 -0300" stop="20221204180000 -0300" channel="Canal 24 Horas (TVE)">
+    <title lang="es">El tiempo</title>
+  </programme>
+  <programme start="20221204180000 -0300" stop="20221204183000 -0300" channel="Canal 24 Horas (TVE)">
+    <title lang="es">Noticias 24h</title>
+  </programme>
+  <programme start="20221204183000 -0300" stop="20221204190000 -0300" channel="Canal 24 Horas (TVE)">
+    <title lang="es">Repor</title>
+  </programme>
+  <programme start="20221204190000 -0300" stop="20221204193000 -0300" channel="Canal 24 Horas (TVE)">
+    <title lang="es">Noticias 24h</title>
+  </programme>
+  <programme start="20221204193000 -0300" stop="20221204200000 -0300" channel="Canal 24 Horas (TVE)">
+    <title lang="es">Noticias 24h</title>
+  </programme>
+  <programme start="20221204200000 -0300" stop="20221204203000 -0300" channel="Canal 24 Horas (TVE)">
+    <title lang="es">Noticias 24h</title>
+  </programme>
+  <programme start="20221204203000 -0300" stop="20221204210000 -0300" channel="Canal 24 Horas (TVE)">
+    <title lang="es">Noticias 24h</title>
+  </programme>
+  <programme start="20221204210000 -0300" stop="20221204213000 -0300" channel="Canal 24 Horas (TVE)">
+    <title lang="es">Noticias 24h</title>
+  </programme>
+  <programme start="20221204213000 -0300" stop="20221204220000 -0300" channel="Canal 24 Horas (TVE)">
+    <title lang="es">En lengua de signos</title>
+  </programme>
+  <programme start="20221204220000 -0300" stop="20221204223000 -0300" channel="Canal 24 Horas (TVE)">
+    <title lang="es">TD Internacional 24H</title>
+  </programme>
+  <programme start="20221204223000 -0300" stop="20221204230000 -0300" channel="Canal 24 Horas (TVE)">
+    <title lang="es">TD Internacional 24H</title>
+  </programme>
+  <programme start="20221204230000 -0300" stop="20221204233000 -0300" channel="Canal 24 Horas (TVE)">
+    <title lang="es">TD Internacional 24H</title>
+  </programme>
+  <programme start="20221204233000 -0300" stop="20221205000000 -0300" channel="Canal 24 Horas (TVE)">
+    <title lang="es">TD Internacional 24H</title>
+  </programme>
+  <programme start="20221205003000 -0300" stop="20221205010000 -0300" channel="Canal 24 Horas (TVE)">
+    <title lang="es">Secuencias en 24</title>
+  </programme>
+  <programme start="20221205013000 -0300" stop="20221205020000 -0300" channel="Canal 24 Horas (TVE)">
+    <title lang="es">Emprende</title>
+  </programme>
+  <programme start="20221205023000 -0300" stop="20221205040000 -0300" channel="Canal 24 Horas (TVE)">
+    <title lang="es">Telediario matinal</title>
+  </programme>
+  <programme start="20221205040000 -0300" stop="20221205060200 -0300" channel="Canal 24 Horas (TVE)">
+    <title lang="es">La hora de la 1</title>
+  </programme>
+  <programme start="20221205060200 -0300" stop="20221205070000 -0300" channel="Canal 24 Horas (TVE)">
+    <title lang="es">Diario 24</title>
+  </programme>
+  <programme start="20221205070000 -0300" stop="20221205100000 -0300" channel="Canal 24 Horas (TVE)">
+    <title lang="es">Diario 24</title>
+  </programme>
+  <programme start="20221205100000 -0300" stop="20221205104500 -0300" channel="Canal 24 Horas (TVE)">
+    <title lang="es">Diario 24</title>
+  </programme>
+  <programme start="20221205104500 -0300" stop="20221205110000 -0300" channel="Canal 24 Horas (TVE)">
+    <title lang="es">Diario 24</title>
+  </programme>
+  <programme start="20221205110000 -0300" stop="20221205115900 -0300" channel="Canal 24 Horas (TVE)">
+    <title lang="es">Telediario 1a edición</title>
+  </programme>
+  <programme start="20221205115900 -0300" stop="20221205123000 -0300" channel="Canal 24 Horas (TVE)">
+    <title lang="es">La Tarde en 24 Horas</title>
+  </programme>
+  <programme start="20221205123000 -0300" stop="20221205130000 -0300" channel="Canal 24 Horas (TVE)">
+    <title lang="es">La Tarde en 24 Horas</title>
+  </programme>
+  <programme start="20221205130000 -0300" stop="20221205143600 -0300" channel="Canal 24 Horas (TVE)">
+    <title lang="es">La Tarde en 24 Horas</title>
+  </programme>
+  <programme start="20221205143600 -0300" stop="20221205151400 -0300" channel="Canal 24 Horas (TVE)">
+    <title lang="es">Canal 24H en Directo</title>
+  </programme>
+  <programme start="20221205151400 -0300" stop="20221205160000 -0300" channel="Canal 24 Horas (TVE)">
+    <title lang="es">La Tarde en 24 Horas</title>
+  </programme>
+  <programme start="20221205160000 -0300" stop="20221205163000 -0300" channel="Canal 24 Horas (TVE)">
+    <title lang="es">La Tarde en 24 Horas</title>
+  </programme>
+  <programme start="20221205163000 -0300" stop="20221205170000 -0300" channel="Canal 24 Horas (TVE)">
+    <title lang="es">La Tarde en 24 Horas</title>
+  </programme>
+  <programme start="20221205170000 -0300" stop="20221205175400 -0300" channel="Canal 24 Horas (TVE)">
+    <title lang="es">Telediario 2a. Edición</title>
+  </programme>
+  <programme start="20221205175400 -0300" stop="20221205180700 -0300" channel="Canal 24 Horas (TVE)">
+    <title lang="es">El tiempo</title>
+  </programme>
+  <programme start="20221205180700 -0300" stop="20221205200500 -0300" channel="Canal 24 Horas (TVE)">
+    <title lang="es">La noche en 24 horas</title>
+  </programme>
+  <programme start="20221205200500 -0300" stop="20221205202800 -0300" channel="Canal 24 Horas (TVE)">
+    <title lang="es">Noticias 24h</title>
+  </programme>
+  <programme start="20221205202800 -0300" stop="20221205204500 -0300" channel="Canal 24 Horas (TVE)">
+    <title lang="es">La hora cultural</title>
+  </programme>
+  <programme start="20221205204500 -0300" stop="20221205210000 -0300" channel="Canal 24 Horas (TVE)">
+    <title lang="es">Emprende express</title>
+  </programme>
+  <programme start="20221205210000 -0300" stop="20221205213000 -0300" channel="Canal 24 Horas (TVE)">
+    <title lang="es">Noticias 24h</title>
+  </programme>
+  <programme start="20221205213000 -0300" stop="20221205220000 -0300" channel="Canal 24 Horas (TVE)">
+    <title lang="es">Repor</title>
+  </programme>
+  <programme start="20221205220000 -0300" stop="20221205223000 -0300" channel="Canal 24 Horas (TVE)">
+    <title lang="es">TD Internacional 24H</title>
+  </programme>
+  <programme start="20221205223000 -0300" stop="20221205230000 -0300" channel="Canal 24 Horas (TVE)">
+    <title lang="es">TD Internacional 24H</title>
+  </programme>
+  <programme start="20221205230000 -0300" stop="20221205233000 -0300" channel="Canal 24 Horas (TVE)">
+    <title lang="es">TD Internacional 24H</title>
+  </programme>
+  <programme start="20221205233000 -0300" stop="20221206000000 -0300" channel="Canal 24 Horas (TVE)">
+    <title lang="es">TD Internacional 24H</title>
+  </programme>
+  <programme start="20221206003000 -0300" stop="20221206004500 -0300" channel="Canal 24 Horas (TVE)">
+    <title lang="es">La hora cultural</title>
+  </programme>
+  <programme start="20221206004500 -0300" stop="20221206010000 -0300" channel="Canal 24 Horas (TVE)">
+    <title lang="es">Cámara Abierta</title>
+  </programme>
+  <programme start="20221206010000 -0300" stop="20221206013000 -0300" channel="Canal 24 Horas (TVE)">
+    <title lang="es">TD Internacional 24H</title>
+  </programme>
+  <programme start="20221206013000 -0300" stop="20221206020000 -0300" channel="Canal 24 Horas (TVE)">
+    <title lang="es">TD Internacional 24H</title>
+  </programme>
+  <programme start="20221206020000 -0300" stop="20221206023000 -0300" channel="Canal 24 Horas (TVE)">
+    <title lang="es">TD Internacional 24H</title>
+  </programme>
+  <programme start="20221206023000 -0300" stop="20221206040000 -0300" channel="Canal 24 Horas (TVE)">
+    <title lang="es">Telediario matinal</title>
+  </programme>
+  <programme start="20221206040000 -0300" stop="20221206060000 -0300" channel="Canal 24 Horas (TVE)">
+    <title lang="es">La hora de la 1</title>
+  </programme>
+  <programme start="20221206060000 -0300" stop="20221206070000 -0300" channel="Canal 24 Horas (TVE)">
+    <title lang="es">Diario 24</title>
+  </programme>
+  <programme start="20221206070000 -0300" stop="20221206090000 -0300" channel="Canal 24 Horas (TVE)">
+    <title lang="es">Diario 24</title>
+  </programme>
+  <programme start="20221206090000 -0300" stop="20221206100000 -0300" channel="Canal 24 Horas (TVE)">
+    <title lang="es">Canal 24H en Directo</title>
+  </programme>
+  <programme start="20221206100000 -0300" stop="20221206103000 -0300" channel="Canal 24 Horas (TVE)">
+    <title lang="es">Diario 24</title>
+  </programme>
+  <programme start="20221206103000 -0300" stop="20221206110000 -0300" channel="Canal 24 Horas (TVE)">
+    <title lang="es">Diario 24</title>
+  </programme>
+  <programme start="20221206110000 -0300" stop="20221206120000 -0300" channel="Canal 24 Horas (TVE)">
+    <title lang="es">Telediario 1a edición</title>
+  </programme>
+  <programme start="20221206120000 -0300" stop="20221206123000 -0300" channel="Canal 24 Horas (TVE)">
+    <title lang="es">La Tarde en 24 Horas</title>
+  </programme>
+  <programme start="20221206130000 -0300" stop="20221206160000 -0300" channel="Canal 24 Horas (TVE)">
+    <title lang="es">La Tarde en 24 Horas</title>
+  </programme>
+  <programme start="20221206170000 -0300" stop="20221206175500 -0300" channel="Canal 24 Horas (TVE)">
+    <title lang="es">Telediario 2a. Edición</title>
+  </programme>
+  <programme start="20221206175500 -0300" stop="20221206180500 -0300" channel="Canal 24 Horas (TVE)">
+    <title lang="es">El tiempo</title>
+  </programme>
+  <programme start="20221206180500 -0300" stop="20221206200000 -0300" channel="Canal 24 Horas (TVE)">
+    <title lang="es">La noche en 24 horas</title>
+  </programme>
+  <programme start="20221206203000 -0300" stop="20221206204500 -0300" channel="Canal 24 Horas (TVE)">
+    <title lang="es">La hora cultural</title>
+  </programme>
+  <programme start="20221206204500 -0300" stop="20221206210000 -0300" channel="Canal 24 Horas (TVE)">
+    <title lang="es">Cámara Abierta</title>
+  </programme>
+  <programme start="20221206213000 -0300" stop="20221206220000 -0300" channel="Canal 24 Horas (TVE)">
+    <title lang="es">Conversatorios en casa de américa</title>
+  </programme>
+  <programme start="20221207004500 -0300" stop="20221207010000 -0300" channel="Canal 24 Horas (TVE)">
+    <title lang="es">Zoom net</title>
+  </programme>
+  <programme start="20221207040000 -0300" stop="20221207050000 -0300" channel="Canal 24 Horas (TVE)">
+    <title lang="es">La hora de la 1</title>
+  </programme>
+  <programme start="20221207050000 -0300" stop="20221207060000 -0300" channel="Canal 24 Horas (TVE)">
+    <title lang="es">Canal 24H en Directo</title>
+  </programme>
+  <programme start="20221207060000 -0300" stop="20221207070000 -0300" channel="Canal 24 Horas (TVE)">
+    <title lang="es">Diario 24</title>
+  </programme>
+  <programme start="20221207204500 -0300" stop="20221207210000 -0300" channel="Canal 24 Horas (TVE)">
+    <title lang="es">Zoom net</title>
+  </programme>
+  <programme start="20221207213000 -0300" stop="20221207220000 -0300" channel="Canal 24 Horas (TVE)">
+    <title lang="es">Emprende</title>
+  </programme>
+  <programme start="20221204003500 -0300" stop="20221204012000 -0300" channel="Canal TeleMadrid">
+    <title lang="es">El encantador de setas</title>
+  </programme>
+  <programme start="20221204012000 -0300" stop="20221204015000 -0300" channel="Canal TeleMadrid">
+    <title lang="es">Telenoticias</title>
+  </programme>
+  <programme start="20221204015000 -0300" stop="20221204015500 -0300" channel="Canal TeleMadrid">
+    <title lang="es">Deportes</title>
+  </programme>
+  <programme start="20221204015500 -0300" stop="20221204020000 -0300" channel="Canal TeleMadrid">
+    <title lang="es">El tiempo</title>
+  </programme>
+  <programme start="20221204020000 -0300" stop="20221204023000 -0300" channel="Canal TeleMadrid">
+    <title lang="es">Zapsports</title>
+  </programme>
+  <programme start="20221204023000 -0300" stop="20221204024500 -0300" channel="Canal TeleMadrid">
+    <title lang="es">Las rutas del lobo</title>
+  </programme>
+  <programme start="20221204024500 -0300" stop="20221204031500 -0300" channel="Canal TeleMadrid">
+    <title lang="es">Guadarrama, biografía de un paisaje</title>
+  </programme>
+  <programme start="20221204031500 -0300" stop="20221204041500 -0300" channel="Canal TeleMadrid">
+    <title lang="es">Atrápame si puedes</title>
+  </programme>
+  <programme start="20221204041500 -0300" stop="20221204052500 -0300" channel="Canal TeleMadrid">
+    <title lang="es">Dos en la carretera</title>
+  </programme>
+  <programme start="20221204052500 -0300" stop="20221204063000 -0300" channel="Canal TeleMadrid">
+    <title lang="es">Toc toc, ¿se puede</title>
+  </programme>
+  <programme start="20221204063000 -0300" stop="20221204070000 -0300" channel="Canal TeleMadrid">
+    <title lang="es">Madrid se mueve</title>
+  </programme>
+  <programme start="20221204070000 -0300" stop="20221204093000 -0300" channel="Canal TeleMadrid">
+    <title lang="es">Madrileños por el mundo</title>
+  </programme>
+  <programme start="20221204093000 -0300" stop="20221204100000 -0300" channel="Canal TeleMadrid">
+    <title lang="es">La vida en rosa</title>
+  </programme>
+  <programme start="20221204100000 -0300" stop="20221204110500 -0300" channel="Canal TeleMadrid">
+    <title lang="es">Telenoticias</title>
+  </programme>
+  <programme start="20221204110500 -0300" stop="20221204113000 -0300" channel="Canal TeleMadrid">
+    <title lang="es">Deportes</title>
+  </programme>
+  <programme start="20221204113000 -0300" stop="20221204114000 -0300" channel="Canal TeleMadrid">
+    <title lang="es">El tiempo</title>
+  </programme>
+  <programme start="20221204114000 -0300" stop="20221204133000 -0300" channel="Canal TeleMadrid">
+    <title lang="es">Planes de boda</title>
+  </programme>
+  <programme start="20221204133000 -0300" stop="20221204153000 -0300" channel="Canal TeleMadrid">
+    <title lang="es">Los seductores</title>
+  </programme>
+  <programme start="20221204153000 -0300" stop="20221204163000 -0300" channel="Canal TeleMadrid">
+    <title lang="es">Disfruta Madrid</title>
+  </programme>
+  <programme start="20221204163000 -0300" stop="20221204170000 -0300" channel="Canal TeleMadrid">
+    <title lang="es">Telenoticias</title>
+  </programme>
+  <programme start="20221204170000 -0300" stop="20221204170500 -0300" channel="Canal TeleMadrid">
+    <title lang="es">Deportes</title>
+  </programme>
+  <programme start="20221204170500 -0300" stop="20221204171000 -0300" channel="Canal TeleMadrid">
+    <title lang="es">El tiempo</title>
+  </programme>
+  <programme start="20221204171000 -0300" stop="20221204174000 -0300" channel="Canal TeleMadrid">
+    <title lang="es">Cámara real</title>
+  </programme>
+  <programme start="20221204174000 -0300" stop="20221204202000 -0300" channel="Canal TeleMadrid">
+    <title lang="es">Ruta 179</title>
+  </programme>
+  <programme start="20221204202000 -0300" stop="20221204215500 -0300" channel="Canal TeleMadrid">
+    <title lang="es">Hasta la cocina</title>
+  </programme>
+  <programme start="20221204215500 -0300" stop="20221204234000 -0300" channel="Canal TeleMadrid">
+    <title lang="es">Mi cámara y yo</title>
+  </programme>
+  <programme start="20221204234000 -0300" stop="20221205005000 -0300" channel="Canal TeleMadrid">
+    <title lang="es">El encantador de setas</title>
+  </programme>
+  <programme start="20221205234000 -0300" stop="20221206005000 -0300" channel="Canal TeleMadrid">
+    <title lang="es">El encantador de setas</title>
+  </programme>
+  <programme start="20221206005000 -0300" stop="20221206012000 -0300" channel="Canal TeleMadrid">
+    <title lang="es">Ruedos con historia</title>
+  </programme>
+  <programme start="20221206020000 -0300" stop="20221206022000 -0300" channel="Canal TeleMadrid">
+    <title lang="es">Zapsports</title>
+  </programme>
+  <programme start="20221206022000 -0300" stop="20221206030000 -0300" channel="Canal TeleMadrid">
+    <title lang="es">El Punto Sobre La Historia</title>
+  </programme>
+  <programme start="20221206030000 -0300" stop="20221206072000 -0300" channel="Canal TeleMadrid">
+    <title lang="es">Buenos días Madrid</title>
+  </programme>
+  <programme start="20221206072000 -0300" stop="20221206100000 -0300" channel="Canal TeleMadrid">
+    <title lang="es">120 minutos</title>
+  </programme>
+  <programme start="20221206100000 -0300" stop="20221206110000 -0300" channel="Canal TeleMadrid">
+    <title lang="es">Telenoticias</title>
+  </programme>
+  <programme start="20221206110000 -0300" stop="20221206112500 -0300" channel="Canal TeleMadrid">
+    <title lang="es">Deportes</title>
+  </programme>
+  <programme start="20221206112500 -0300" stop="20221206113500 -0300" channel="Canal TeleMadrid">
+    <title lang="es">El tiempo</title>
+  </programme>
+  <programme start="20221206113500 -0300" stop="20221206135000 -0300" channel="Canal TeleMadrid">
+    <title lang="es">Sangre y Arena</title>
+  </programme>
+  <programme start="20221206135000 -0300" stop="20221206152500 -0300" channel="Canal TeleMadrid">
+    <title lang="es">Wichita</title>
+  </programme>
+  <programme start="20221206152500 -0300" stop="20221206163000 -0300" channel="Canal TeleMadrid">
+    <title lang="es">Madrid directo</title>
+  </programme>
+  <programme start="20221206163000 -0300" stop="20221206171500 -0300" channel="Canal TeleMadrid">
+    <title lang="es">Telenoticias</title>
+  </programme>
+  <programme start="20221206171500 -0300" stop="20221206173000 -0300" channel="Canal TeleMadrid">
+    <title lang="es">Deportes</title>
+  </programme>
+  <programme start="20221206173000 -0300" stop="20221206173500 -0300" channel="Canal TeleMadrid">
+    <title lang="es">El tiempo</title>
+  </programme>
+  <programme start="20221206173500 -0300" stop="20221206183500 -0300" channel="Canal TeleMadrid">
+    <title lang="es">Juntos</title>
+  </programme>
+  <programme start="20221206183500 -0300" stop="20221206211000 -0300" channel="Canal TeleMadrid">
+    <title lang="es">Tiempo de matar</title>
+  </programme>
+  <programme start="20221206211000 -0300" stop="20221206220500 -0300" channel="Canal TeleMadrid">
+    <title lang="es">Desmontando Madrid</title>
+  </programme>
+  <programme start="20221206220500 -0300" stop="20221206235000 -0300" channel="Canal TeleMadrid">
+    <title lang="es">Mi cámara y yo</title>
+  </programme>
+  <programme start="20221206235000 -0300" stop="20221207005500 -0300" channel="Canal TeleMadrid">
+    <title lang="es">¿Dónde estabas entonces</title>
+  </programme>
+  <programme start="20221207005500 -0300" stop="20221207012500 -0300" channel="Canal TeleMadrid">
+    <title lang="es">Ruedos con historia</title>
+  </programme>
+  <programme start="20221207012500 -0300" stop="20221207020500 -0300" channel="Canal TeleMadrid">
+    <title lang="es">Telenoticias</title>
+  </programme>
+  <programme start="20221207020500 -0300" stop="20221207021500 -0300" channel="Canal TeleMadrid">
+    <title lang="es">Deportes</title>
+  </programme>
+  <programme start="20221207021500 -0300" stop="20221207022500 -0300" channel="Canal TeleMadrid">
+    <title lang="es">El tiempo</title>
+  </programme>
+  <programme start="20221207022500 -0300" stop="20221207023000 -0300" channel="Canal TeleMadrid">
+    <title lang="es">Zapsports</title>
+  </programme>
+  <programme start="20221207023000 -0300" stop="20221207025500 -0300" channel="Canal TeleMadrid">
+    <title lang="es">El Punto Sobre La Historia</title>
+  </programme>
+  <programme start="20221207025500 -0300" stop="20221207040000 -0300" channel="Canal TeleMadrid">
+    <title lang="es">Madrid directo</title>
+  </programme>
+  <programme start="20221207040000 -0300" stop="20221207062500 -0300" channel="Canal TeleMadrid">
+    <title lang="es">Mi cámara y yo</title>
+  </programme>
+  <programme start="20221207062500 -0300" stop="20221207072000 -0300" channel="Canal TeleMadrid">
+    <title lang="es">Madrileños por el mundo</title>
+  </programme>
+  <programme start="20221207113500 -0300" stop="20221207120500 -0300" channel="Canal TeleMadrid">
+    <title lang="es">El Punto Sobre La Historia</title>
+  </programme>
+  <programme start="20221207120500 -0300" stop="20221207132500 -0300" channel="Canal TeleMadrid">
+    <title lang="es">Ruta 179</title>
+  </programme>
+  <programme start="20221207132500 -0300" stop="20221207152000 -0300" channel="Canal TeleMadrid">
+    <title lang="es">Madrileños por el mundo</title>
+  </programme>
+  <programme start="20221207152000 -0300" stop="20221207163000 -0300" channel="Canal TeleMadrid">
+    <title lang="es">Madrid directo</title>
+  </programme>
+  <programme start="20221207163000 -0300" stop="20221207171500 -0300" channel="Canal TeleMadrid">
+    <title lang="es">Telenoticias</title>
+  </programme>
+  <programme start="20221207171500 -0300" stop="20221207173000 -0300" channel="Canal TeleMadrid">
+    <title lang="es">Deportes</title>
+  </programme>
+  <programme start="20221207173000 -0300" stop="20221207173500 -0300" channel="Canal TeleMadrid">
+    <title lang="es">El tiempo</title>
+  </programme>
+  <programme start="20221207173500 -0300" stop="20221207183500 -0300" channel="Canal TeleMadrid">
+    <title lang="es">Juntos</title>
+  </programme>
+  <programme start="20221207183500 -0300" stop="20221207212500 -0300" channel="Canal TeleMadrid">
+    <title lang="es">Atrápame si puedes. Celebrity</title>
+  </programme>
+  <programme start="20221207212500 -0300" stop="20221207222000 -0300" channel="Canal TeleMadrid">
+    <title lang="es">Desmontando Madrid</title>
+  </programme>
+  <programme start="20221207222000 -0300" stop="20221207230500 -0300" channel="Canal TeleMadrid">
+    <title lang="es">Mi cámara y yo</title>
+  </programme>
+  <programme start="20221207230500 -0300" stop="20221208001000 -0300" channel="Canal TeleMadrid">
+    <title lang="es">¿Dónde estabas entonces</title>
+  </programme>
+  <programme start="20221208230500 -0300" stop="20221209001000 -0300" channel="Canal TeleMadrid">
+    <title lang="es">¿Dónde estabas entonces</title>
+  </programme>
+  <programme start="20221204040000 -0300" stop="20221204043000 -0300" channel="Canal Bloomberg">
+    <title lang="es">Leaders with Lacqua Goes Green</title>
+  </programme>
+  <programme start="20221204043000 -0300" stop="20221204060000 -0300" channel="Canal Bloomberg">
+    <title lang="es">Bloomberg Wealth with David Rubenstein</title>
+  </programme>
+  <programme start="20221204060000 -0300" stop="20221204063000 -0300" channel="Canal Bloomberg">
+    <title lang="es">Bloomberg Chief Future Officer</title>
+  </programme>
+  <programme start="20221204063000 -0300" stop="20221204070000 -0300" channel="Canal Bloomberg">
+    <title lang="es">Emma Barnett Meets</title>
+  </programme>
+  <programme start="20221204070000 -0300" stop="20221204073000 -0300" channel="Canal Bloomberg">
+    <title lang="es">Studio 1.0</title>
+  </programme>
+  <programme start="20221204073000 -0300" stop="20221204080000 -0300" channel="Canal Bloomberg">
+    <title lang="es">Bloomberg Green</title>
+  </programme>
+  <programme start="20221204080000 -0300" stop="20221204083000 -0300" channel="Canal Bloomberg">
+    <title lang="es">Tiempo de toros</title>
+  </programme>
+  <programme start="20221204083000 -0300" stop="20221204090000 -0300" channel="Canal Bloomberg">
+    <title lang="es">The David Rubenstein Show: Peer to Peer Conversations</title>
+  </programme>
+  <programme start="20221204090000 -0300" stop="20221204093000 -0300" channel="Canal Bloomberg">
+    <title lang="es">Emma Barnett Meets</title>
+  </programme>
+  <programme start="20221204093000 -0300" stop="20221204100000 -0300" channel="Canal Bloomberg">
+    <title lang="es">Leaders with Lacqua</title>
+  </programme>
+  <programme start="20221204100000 -0300" stop="20221204110000 -0300" channel="Canal Bloomberg">
+    <title lang="es">Bloomberg Wall Street Week</title>
+  </programme>
+  <programme start="20221204110000 -0300" stop="20221204120000 -0300" channel="Canal Bloomberg">
+    <title lang="es">El Financiero Meet Point</title>
+  </programme>
+  <programme start="20221204120000 -0300" stop="20221204123000 -0300" channel="Canal Bloomberg">
+    <title lang="es">Entre Dichos</title>
+  </programme>
+  <programme start="20221204123000 -0300" stop="20221204130000 -0300" channel="Canal Bloomberg">
+    <title lang="es">Bloomberg Front Row</title>
+  </programme>
+  <programme start="20221204130000 -0300" stop="20221204140000 -0300" channel="Canal Bloomberg">
+    <title lang="es">Gabinete de seguridad</title>
+  </programme>
+  <programme start="20221204140000 -0300" stop="20221204143000 -0300" channel="Canal Bloomberg">
+    <title lang="es">Studio 1.0</title>
+  </programme>
+  <programme start="20221204143000 -0300" stop="20221204223000 -0300" channel="Canal Bloomberg">
+    <title lang="es">The David Rubenstein Show: Peer to Peer Conversations</title>
+  </programme>
+  <programme start="20221204223000 -0300" stop="20221205030000 -0300" channel="Canal Bloomberg">
+    <title lang="es">The David Rubenstein Show: Peer to Peer Conversations</title>
+  </programme>
+  <programme start="20221205030000 -0300" stop="20221205033000 -0300" channel="Canal Bloomberg">
+    <title lang="es">Studio 1.0</title>
+  </programme>
+  <programme start="20221205033000 -0300" stop="20221205040000 -0300" channel="Canal Bloomberg">
+    <title lang="es">The David Rubenstein Show: Peer to Peer Conversations</title>
+  </programme>
+  <programme start="20221205040000 -0300" stop="20221205043000 -0300" channel="Canal Bloomberg">
+    <title lang="es">Studio 1.0</title>
+  </programme>
+  <programme start="20221205043000 -0300" stop="20221205050000 -0300" channel="Canal Bloomberg">
+    <title lang="es">Bloomberg Front Row</title>
+  </programme>
+  <programme start="20221205050000 -0300" stop="20221205053000 -0300" channel="Canal Bloomberg">
+    <title lang="es">Studio 1.0</title>
+  </programme>
+  <programme start="20221205053000 -0300" stop="20221205060000 -0300" channel="Canal Bloomberg">
+    <title lang="es">The David Rubenstein Show: Peer to Peer Conversations</title>
+  </programme>
+  <programme start="20221205060000 -0300" stop="20221205063000 -0300" channel="Canal Bloomberg">
+    <title lang="es">The David Rubenstein Show: Peer to Peer Conversations</title>
+  </programme>
+  <programme start="20221205063000 -0300" stop="20221205070000 -0300" channel="Canal Bloomberg">
+    <title lang="es">Studio 1.0</title>
+  </programme>
+  <programme start="20221205070000 -0300" stop="20221205073000 -0300" channel="Canal Bloomberg">
+    <title lang="es">Leaders with Lacqua Goes Green</title>
+  </programme>
+  <programme start="20221205073000 -0300" stop="20221205080000 -0300" channel="Canal Bloomberg">
+    <title lang="es">Good fortunes</title>
+  </programme>
+  <programme start="20221205080000 -0300" stop="20221205083000 -0300" channel="Canal Bloomberg">
+    <title lang="es">Leaders with Lacqua Goes Green</title>
+  </programme>
+  <programme start="20221205083000 -0300" stop="20221205110000 -0300" channel="Canal Bloomberg">
+    <title lang="es">Hello World</title>
+  </programme>
+  <programme start="20221205110000 -0300" stop="20221205120000 -0300" channel="Canal Bloomberg">
+    <title lang="es">Bloomberg Markets: The Open</title>
+  </programme>
+  <programme start="20221205120000 -0300" stop="20221205130000 -0300" channel="Canal Bloomberg">
+    <title lang="es">Bloomberg markets Americas</title>
+  </programme>
+  <programme start="20221205130000 -0300" stop="20221205140000 -0300" channel="Canal Bloomberg">
+    <title lang="es">Bloomberg Markets: European Close</title>
+  </programme>
+  <programme start="20221205140000 -0300" stop="20221205150000 -0300" channel="Canal Bloomberg">
+    <title lang="es">Bloomberg: Balance of Power</title>
+  </programme>
+  <programme start="20221205150000 -0300" stop="20221205160000 -0300" channel="Canal Bloomberg">
+    <title lang="es">Bloomberg markets</title>
+  </programme>
+  <programme start="20221205160000 -0300" stop="20221205180000 -0300" channel="Canal Bloomberg">
+    <title lang="es">Bloomberg markets The close</title>
+  </programme>
+  <programme start="20221205180000 -0300" stop="20221205190000 -0300" channel="Canal Bloomberg">
+    <title lang="es">Al sonar la campana</title>
+  </programme>
+  <programme start="20221205190000 -0300" stop="20221205200000 -0300" channel="Canal Bloomberg">
+    <title lang="es">Ganadores y perdedores</title>
+  </programme>
+  <programme start="20221205200000 -0300" stop="20221205210000 -0300" channel="Canal Bloomberg">
+    <title lang="es">El financiero a las 17 con Omar Cepeda</title>
+  </programme>
+  <programme start="20221205210000 -0300" stop="20221205220000 -0300" channel="Canal Bloomberg">
+    <title lang="es">El financiero a las 18 con Helena Lozano</title>
+  </programme>
+  <programme start="20221205220000 -0300" stop="20221205230000 -0300" channel="Canal Bloomberg">
+    <title lang="es">El financiero a las 19 con Héctor Jiménez Landín</title>
+  </programme>
+  <programme start="20221205230000 -0300" stop="20221206000000 -0300" channel="Canal Bloomberg">
+    <title lang="es">El financiero a las 20 con Sofía Villalobos</title>
+  </programme>
+  <programme start="20221206000000 -0300" stop="20221206010000 -0300" channel="Canal Bloomberg">
+    <title lang="es">Al cierre</title>
+  </programme>
+  <programme start="20221206010000 -0300" stop="20221206020000 -0300" channel="Canal Bloomberg">
+    <title lang="es">Con Ortega a las 10:00</title>
+  </programme>
+  <programme start="20221206020000 -0300" stop="20221206030000 -0300" channel="Canal Bloomberg">
+    <title lang="es">La silla roja</title>
+  </programme>
+  <programme start="20221206030000 -0300" stop="20221206040000 -0300" channel="Canal Bloomberg">
+    <title lang="es">Al cierre</title>
+  </programme>
+  <programme start="20221206040000 -0300" stop="20221206050000 -0300" channel="Canal Bloomberg">
+    <title lang="es">Con Ortega a las 10:00</title>
+  </programme>
+  <programme start="20221206050000 -0300" stop="20221206060000 -0300" channel="Canal Bloomberg">
+    <title lang="es">Bloomberg Markets: European Open</title>
+  </programme>
+  <programme start="20221206060000 -0300" stop="20221206080000 -0300" channel="Canal Bloomberg">
+    <title lang="es">Bloomberg Surveillance: Early Edition</title>
+  </programme>
+  <programme start="20221206080000 -0300" stop="20221206110000 -0300" channel="Canal Bloomberg">
+    <title lang="es">Bloomberg Surveillance</title>
+  </programme>
+  <programme start="20221206110000 -0300" stop="20221206120000 -0300" channel="Canal Bloomberg">
+    <title lang="es">Bloomberg Markets: The Open</title>
+  </programme>
+  <programme start="20221206120000 -0300" stop="20221206130000 -0300" channel="Canal Bloomberg">
+    <title lang="es">Bloomberg markets Americas</title>
+  </programme>
+  <programme start="20221206130000 -0300" stop="20221206140000 -0300" channel="Canal Bloomberg">
+    <title lang="es">Bloomberg Markets: European Close</title>
+  </programme>
+  <programme start="20221206140000 -0300" stop="20221206150000 -0300" channel="Canal Bloomberg">
+    <title lang="es">Bloomberg: Balance of Power</title>
+  </programme>
+  <programme start="20221206150000 -0300" stop="20221206160000 -0300" channel="Canal Bloomberg">
+    <title lang="es">Bloomberg markets</title>
+  </programme>
+  <programme start="20221206160000 -0300" stop="20221206180000 -0300" channel="Canal Bloomberg">
+    <title lang="es">Bloomberg markets The close</title>
+  </programme>
+  <programme start="20221206180000 -0300" stop="20221206190000 -0300" channel="Canal Bloomberg">
+    <title lang="es">Al sonar la campana</title>
+  </programme>
+  <programme start="20221206190000 -0300" stop="20221206200000 -0300" channel="Canal Bloomberg">
+    <title lang="es">Ganadores y perdedores</title>
+  </programme>
+  <programme start="20221206200000 -0300" stop="20221206210000 -0300" channel="Canal Bloomberg">
+    <title lang="es">El financiero a las 17 con Omar Cepeda</title>
+  </programme>
+  <programme start="20221206210000 -0300" stop="20221206220000 -0300" channel="Canal Bloomberg">
+    <title lang="es">El financiero a las 18 con Helena Lozano</title>
+  </programme>
+  <programme start="20221206220000 -0300" stop="20221206230000 -0300" channel="Canal Bloomberg">
+    <title lang="es">El financiero a las 19 con Héctor Jiménez Landín</title>
+  </programme>
+  <programme start="20221206230000 -0300" stop="20221207000000 -0300" channel="Canal Bloomberg">
+    <title lang="es">El financiero a las 20 con Sofía Villalobos</title>
+  </programme>
+  <programme start="20221207020000 -0300" stop="20221207023000 -0300" channel="Canal Bloomberg">
+    <title lang="es">Entre Dichos</title>
+  </programme>
+  <programme start="20221207023000 -0300" stop="20221207030000 -0300" channel="Canal Bloomberg">
+    <title lang="es">Studio 1.0</title>
+  </programme>
+  <programme start="20221207030000 -0300" stop="20221207040000 -0300" channel="Canal Bloomberg">
+    <title lang="es">Al cierre</title>
+  </programme>
+  <programme start="20221207040000 -0300" stop="20221207050000 -0300" channel="Canal Bloomberg">
+    <title lang="es">Con Ortega a las 10:00</title>
+  </programme>
+  <programme start="20221207050000 -0300" stop="20221207060000 -0300" channel="Canal Bloomberg">
+    <title lang="es">Bloomberg Markets: European Open</title>
+  </programme>
+  <programme start="20221207060000 -0300" stop="20221207080000 -0300" channel="Canal Bloomberg">
+    <title lang="es">Bloomberg Surveillance: Early Edition</title>
+  </programme>
+  <programme start="20221207080000 -0300" stop="20221207110000 -0300" channel="Canal Bloomberg">
+    <title lang="es">Bloomberg Surveillance</title>
+  </programme>
+  <programme start="20221204000500 -0300" stop="20221204003600 -0300" channel="Euronews">
+    <title lang="es">News</title>
+  </programme>
+  <programme start="20221204003600 -0300" stop="20221204010500 -0300" channel="Euronews">
+    <title lang="es">News</title>
+  </programme>
+  <programme start="20221204010500 -0300" stop="20221204011600 -0300" channel="Euronews">
+    <title lang="es">Euronews Witness</title>
+  </programme>
+  <programme start="20221204011600 -0300" stop="20221204013500 -0300" channel="Euronews">
+    <title lang="es">Euronews Witness</title>
+  </programme>
+  <programme start="20221204013500 -0300" stop="20221204015000 -0300" channel="Euronews">
+    <title lang="es">Euronews Witness</title>
+  </programme>
+  <programme start="20221204015000 -0300" stop="20221204020500 -0300" channel="Euronews">
+    <title lang="es">State of the union</title>
+  </programme>
+  <programme start="20221204020500 -0300" stop="20221204023500 -0300" channel="Euronews">
+    <title lang="es">News</title>
+  </programme>
+  <programme start="20221204023500 -0300" stop="20221204030500 -0300" channel="Euronews">
+    <title lang="es">News</title>
+  </programme>
+  <programme start="20221204030500 -0300" stop="20221204031600 -0300" channel="Euronews">
+    <title lang="es">Euronews Witness</title>
+  </programme>
+  <programme start="20221204031600 -0300" stop="20221204033500 -0300" channel="Euronews">
+    <title lang="es">Euronews Witness</title>
+  </programme>
+  <programme start="20221204033500 -0300" stop="20221204034600 -0300" channel="Euronews">
+    <title lang="es">Euronews Witness</title>
+  </programme>
+  <programme start="20221204034600 -0300" stop="20221204040500 -0300" channel="Euronews">
+    <title lang="es">State of the union</title>
+  </programme>
+  <programme start="20221204040500 -0300" stop="20221204043700 -0300" channel="Euronews">
+    <title lang="es">News</title>
+  </programme>
+  <programme start="20221204043700 -0300" stop="20221204050500 -0300" channel="Euronews">
+    <title lang="es">News</title>
+  </programme>
+  <programme start="20221204050500 -0300" stop="20221204051600 -0300" channel="Euronews">
+    <title lang="es">Euronews Witness</title>
+  </programme>
+  <programme start="20221204051600 -0300" stop="20221204053500 -0300" channel="Euronews">
+    <title lang="es">Euronews Witness</title>
+  </programme>
+  <programme start="20221204053500 -0300" stop="20221204054500 -0300" channel="Euronews">
+    <title lang="es">Euronews Witness</title>
+  </programme>
+  <programme start="20221204054500 -0300" stop="20221204060500 -0300" channel="Euronews">
+    <title lang="es">State of the union</title>
+  </programme>
+  <programme start="20221204060500 -0300" stop="20221204063500 -0300" channel="Euronews">
+    <title lang="es">News</title>
+  </programme>
+  <programme start="20221204063500 -0300" stop="20221204070500 -0300" channel="Euronews">
+    <title lang="es">News</title>
+  </programme>
+  <programme start="20221204070500 -0300" stop="20221204071600 -0300" channel="Euronews">
+    <title lang="es">Euronews Witness</title>
+  </programme>
+  <programme start="20221204071600 -0300" stop="20221204073600 -0300" channel="Euronews">
+    <title lang="es">Euronews Witness</title>
+  </programme>
+  <programme start="20221204073600 -0300" stop="20221204080500 -0300" channel="Euronews">
+    <title lang="es">Euronews Witness</title>
+  </programme>
+  <programme start="20221204080500 -0300" stop="20221204083500 -0300" channel="Euronews">
+    <title lang="es">News</title>
+  </programme>
+  <programme start="20221204083500 -0300" stop="20221204090500 -0300" channel="Euronews">
+    <title lang="es">News</title>
+  </programme>
+  <programme start="20221204090500 -0300" stop="20221204091600 -0300" channel="Euronews">
+    <title lang="es">Euronews Witness</title>
+  </programme>
+  <programme start="20221204091600 -0300" stop="20221204093500 -0300" channel="Euronews">
+    <title lang="es">Euronews Witness</title>
+  </programme>
+  <programme start="20221204093500 -0300" stop="20221204100500 -0300" channel="Euronews">
+    <title lang="es">Euronews Witness</title>
+  </programme>
+  <programme start="20221204100500 -0300" stop="20221204103500 -0300" channel="Euronews">
+    <title lang="es">News</title>
+  </programme>
+  <programme start="20221204103500 -0300" stop="20221204105000 -0300" channel="Euronews">
+    <title lang="es">News</title>
+  </programme>
+  <programme start="20221204105000 -0300" stop="20221204110500 -0300" channel="Euronews">
+    <title lang="es">State of the union</title>
+  </programme>
+  <programme start="20221204110500 -0300" stop="20221204111700 -0300" channel="Euronews">
+    <title lang="es">Euronews Witness</title>
+  </programme>
+  <programme start="20221204111700 -0300" stop="20221204113500 -0300" channel="Euronews">
+    <title lang="es">Euronews Witness</title>
+  </programme>
+  <programme start="20221204113500 -0300" stop="20221204120500 -0300" channel="Euronews">
+    <title lang="es">Euronews Witness</title>
+  </programme>
+  <programme start="20221204120500 -0300" stop="20221204123500 -0300" channel="Euronews">
+    <title lang="es">News</title>
+  </programme>
+  <programme start="20221204123500 -0300" stop="20221204130500 -0300" channel="Euronews">
+    <title lang="es">News</title>
+  </programme>
+  <programme start="20221204130500 -0300" stop="20221204131600 -0300" channel="Euronews">
+    <title lang="es">Euronews Witness</title>
+  </programme>
+  <programme start="20221204131600 -0300" stop="20221204133500 -0300" channel="Euronews">
+    <title lang="es">Euronews Witness</title>
+  </programme>
+  <programme start="20221204133500 -0300" stop="20221204134700 -0300" channel="Euronews">
+    <title lang="es">Euronews Witness</title>
+  </programme>
+  <programme start="20221204134700 -0300" stop="20221204140500 -0300" channel="Euronews">
+    <title lang="es">State of the union</title>
+  </programme>
+  <programme start="20221204140500 -0300" stop="20221204143500 -0300" channel="Euronews">
+    <title lang="es">News</title>
+  </programme>
+  <programme start="20221204143500 -0300" stop="20221204150500 -0300" channel="Euronews">
+    <title lang="es">News</title>
+  </programme>
+  <programme start="20221204150500 -0300" stop="20221204151500 -0300" channel="Euronews">
+    <title lang="es">Euronews Witness</title>
+  </programme>
+  <programme start="20221204151500 -0300" stop="20221204153500 -0300" channel="Euronews">
+    <title lang="es">Euronews Witness</title>
+  </programme>
+  <programme start="20221204153500 -0300" stop="20221204160500 -0300" channel="Euronews">
+    <title lang="es">Euronews Witness</title>
+  </programme>
+  <programme start="20221204160500 -0300" stop="20221204163500 -0300" channel="Euronews">
+    <title lang="es">News</title>
+  </programme>
+  <programme start="20221204163500 -0300" stop="20221204170500 -0300" channel="Euronews">
+    <title lang="es">News</title>
+  </programme>
+  <programme start="20221204170500 -0300" stop="20221204171700 -0300" channel="Euronews">
+    <title lang="es">Euronews Witness</title>
+  </programme>
+  <programme start="20221204171700 -0300" stop="20221204173500 -0300" channel="Euronews">
+    <title lang="es">Euronews Witness</title>
+  </programme>
+  <programme start="20221204173500 -0300" stop="20221204180500 -0300" channel="Euronews">
+    <title lang="es">Euronews Witness</title>
+  </programme>
+  <programme start="20221204180500 -0300" stop="20221204183400 -0300" channel="Euronews">
+    <title lang="es">News</title>
+  </programme>
+  <programme start="20221204183400 -0300" stop="20221204185000 -0300" channel="Euronews">
+    <title lang="es">News</title>
+  </programme>
+  <programme start="20221204185000 -0300" stop="20221205010000 -0300" channel="Euronews">
+    <title lang="es">State of the union</title>
+  </programme>
+  <programme start="20221205010000 -0300" stop="20221205011500 -0300" channel="Euronews">
+    <title lang="es">Good Morning Europe</title>
+  </programme>
+  <programme start="20221205011500 -0300" stop="20221205013000 -0300" channel="Euronews">
+    <title lang="es">Good Morning Europe</title>
+  </programme>
+  <programme start="20221205013000 -0300" stop="20221205014500 -0300" channel="Euronews">
+    <title lang="es">Good Morning Europe</title>
+  </programme>
+  <programme start="20221205014500 -0300" stop="20221205020000 -0300" channel="Euronews">
+    <title lang="es">Good Morning Europe</title>
+  </programme>
+  <programme start="20221205020000 -0300" stop="20221205021500 -0300" channel="Euronews">
+    <title lang="es">Good Morning Europe</title>
+  </programme>
+  <programme start="20221205021500 -0300" stop="20221205023000 -0300" channel="Euronews">
+    <title lang="es">Good Morning Europe</title>
+  </programme>
+  <programme start="20221205023000 -0300" stop="20221205024500 -0300" channel="Euronews">
+    <title lang="es">Good Morning Europe</title>
+  </programme>
+  <programme start="20221205024500 -0300" stop="20221205030000 -0300" channel="Euronews">
+    <title lang="es">Good Morning Europe</title>
+  </programme>
+  <programme start="20221205030000 -0300" stop="20221205031500 -0300" channel="Euronews">
+    <title lang="es">Good Morning Europe</title>
+  </programme>
+  <programme start="20221205031500 -0300" stop="20221205033000 -0300" channel="Euronews">
+    <title lang="es">Good Morning Europe</title>
+  </programme>
+  <programme start="20221205033000 -0300" stop="20221205034500 -0300" channel="Euronews">
+    <title lang="es">Good Morning Europe</title>
+  </programme>
+  <programme start="20221205034500 -0300" stop="20221205040000 -0300" channel="Euronews">
+    <title lang="es">Good Morning Europe</title>
+  </programme>
+  <programme start="20221205040000 -0300" stop="20221205041500 -0300" channel="Euronews">
+    <title lang="es">Good Morning Europe</title>
+  </programme>
+  <programme start="20221205041500 -0300" stop="20221205043000 -0300" channel="Euronews">
+    <title lang="es">Good Morning Europe</title>
+  </programme>
+  <programme start="20221205043000 -0300" stop="20221205044500 -0300" channel="Euronews">
+    <title lang="es">Good Morning Europe</title>
+  </programme>
+  <programme start="20221205044500 -0300" stop="20221205050000 -0300" channel="Euronews">
+    <title lang="es">Good Morning Europe</title>
+  </programme>
+  <programme start="20221205050000 -0300" stop="20221205051500 -0300" channel="Euronews">
+    <title lang="es">Good Morning Europe</title>
+  </programme>
+  <programme start="20221205051500 -0300" stop="20221205053000 -0300" channel="Euronews">
+    <title lang="es">Good Morning Europe</title>
+  </programme>
+  <programme start="20221205053000 -0300" stop="20221205054500 -0300" channel="Euronews">
+    <title lang="es">Good Morning Europe</title>
+  </programme>
+  <programme start="20221205054500 -0300" stop="20221205060000 -0300" channel="Euronews">
+    <title lang="es">Good Morning Europe</title>
+  </programme>
+  <programme start="20221205060000 -0300" stop="20221205061500 -0300" channel="Euronews">
+    <title lang="es">Good Morning Europe</title>
+  </programme>
+  <programme start="20221205061500 -0300" stop="20221205063000 -0300" channel="Euronews">
+    <title lang="es">Good Morning Europe</title>
+  </programme>
+  <programme start="20221205063000 -0300" stop="20221205064500 -0300" channel="Euronews">
+    <title lang="es">Good Morning Europe</title>
+  </programme>
+  <programme start="20221205064500 -0300" stop="20221205070000 -0300" channel="Euronews">
+    <title lang="es">Good Morning Europe</title>
+  </programme>
+  <programme start="20221205070000 -0300" stop="20221205071500 -0300" channel="Euronews">
+    <title lang="es">Euronews Now</title>
+  </programme>
+  <programme start="20221205071500 -0300" stop="20221205073000 -0300" channel="Euronews">
+    <title lang="es">Euronews Now</title>
+  </programme>
+  <programme start="20221205073000 -0300" stop="20221205074500 -0300" channel="Euronews">
+    <title lang="es">Euronews Now</title>
+  </programme>
+  <programme start="20221205074500 -0300" stop="20221205080000 -0300" channel="Euronews">
+    <title lang="es">Euronews Now</title>
+  </programme>
+  <programme start="20221205080000 -0300" stop="20221205081500 -0300" channel="Euronews">
+    <title lang="es">Euronews Now</title>
+  </programme>
+  <programme start="20221205081500 -0300" stop="20221205083000 -0300" channel="Euronews">
+    <title lang="es">Euronews Now</title>
+  </programme>
+  <programme start="20221205083000 -0300" stop="20221205084500 -0300" channel="Euronews">
+    <title lang="es">Euronews Now</title>
+  </programme>
+  <programme start="20221205084500 -0300" stop="20221205090000 -0300" channel="Euronews">
+    <title lang="es">Euronews Now</title>
+  </programme>
+  <programme start="20221205090000 -0300" stop="20221205091500 -0300" channel="Euronews">
+    <title lang="es">Euronews Now</title>
+  </programme>
+  <programme start="20221205091500 -0300" stop="20221205093000 -0300" channel="Euronews">
+    <title lang="es">Euronews Now</title>
+  </programme>
+  <programme start="20221205093000 -0300" stop="20221205094500 -0300" channel="Euronews">
+    <title lang="es">Euronews Now</title>
+  </programme>
+  <programme start="20221205094500 -0300" stop="20221205100000 -0300" channel="Euronews">
+    <title lang="es">Euronews Now</title>
+  </programme>
+  <programme start="20221205100000 -0300" stop="20221205101500 -0300" channel="Euronews">
+    <title lang="es">Euronews Now</title>
+  </programme>
+  <programme start="20221205101500 -0300" stop="20221205103000 -0300" channel="Euronews">
+    <title lang="es">Euronews Now</title>
+  </programme>
+  <programme start="20221205103000 -0300" stop="20221205104500 -0300" channel="Euronews">
+    <title lang="es">Euronews Now</title>
+  </programme>
+  <programme start="20221205104500 -0300" stop="20221205110000 -0300" channel="Euronews">
+    <title lang="es">Euronews Now</title>
+  </programme>
+  <programme start="20221205110000 -0300" stop="20221205111500 -0300" channel="Euronews">
+    <title lang="es">Euronews Now</title>
+  </programme>
+  <programme start="20221205111500 -0300" stop="20221205113000 -0300" channel="Euronews">
+    <title lang="es">Euronews Now</title>
+  </programme>
+  <programme start="20221205113000 -0300" stop="20221205114500 -0300" channel="Euronews">
+    <title lang="es">Euronews Now</title>
+  </programme>
+  <programme start="20221205114500 -0300" stop="20221205120000 -0300" channel="Euronews">
+    <title lang="es">Euronews Now</title>
+  </programme>
+  <programme start="20221205120000 -0300" stop="20221205121500 -0300" channel="Euronews">
+    <title lang="es">Euronews Now</title>
+  </programme>
+  <programme start="20221205121500 -0300" stop="20221205123000 -0300" channel="Euronews">
+    <title lang="es">Euronews Now</title>
+  </programme>
+  <programme start="20221205123000 -0300" stop="20221205124500 -0300" channel="Euronews">
+    <title lang="es">Euronews Now</title>
+  </programme>
+  <programme start="20221205124500 -0300" stop="20221205130000 -0300" channel="Euronews">
+    <title lang="es">Euronews Now</title>
+  </programme>
+  <programme start="20221205130000 -0300" stop="20221205131500 -0300" channel="Euronews">
+    <title lang="es">Euronews Now</title>
+  </programme>
+  <programme start="20221205131500 -0300" stop="20221205133000 -0300" channel="Euronews">
+    <title lang="es">Euronews Now</title>
+  </programme>
+  <programme start="20221205133000 -0300" stop="20221205134500 -0300" channel="Euronews">
+    <title lang="es">Euronews Now</title>
+  </programme>
+  <programme start="20221205134500 -0300" stop="20221205140000 -0300" channel="Euronews">
+    <title lang="es">Euronews Now</title>
+  </programme>
+  <programme start="20221205140000 -0300" stop="20221205141500 -0300" channel="Euronews">
+    <title lang="es">Euronews Now</title>
+  </programme>
+  <programme start="20221205141500 -0300" stop="20221205143000 -0300" channel="Euronews">
+    <title lang="es">Euronews Now</title>
+  </programme>
+  <programme start="20221205143000 -0300" stop="20221205144500 -0300" channel="Euronews">
+    <title lang="es">Euronews Now</title>
+  </programme>
+  <programme start="20221205144500 -0300" stop="20221205150000 -0300" channel="Euronews">
+    <title lang="es">Euronews Now</title>
+  </programme>
+  <programme start="20221205150000 -0300" stop="20221205151500 -0300" channel="Euronews">
+    <title lang="es">Euronews Now</title>
+  </programme>
+  <programme start="20221205151500 -0300" stop="20221205153000 -0300" channel="Euronews">
+    <title lang="es">Euronews Now</title>
+  </programme>
+  <programme start="20221205153000 -0300" stop="20221205154500 -0300" channel="Euronews">
+    <title lang="es">Euronews Now</title>
+  </programme>
+  <programme start="20221205154500 -0300" stop="20221205160000 -0300" channel="Euronews">
+    <title lang="es">Euronews Now</title>
+  </programme>
+  <programme start="20221205160000 -0300" stop="20221205161500 -0300" channel="Euronews">
+    <title lang="es">Euronews Now</title>
+  </programme>
+  <programme start="20221205161500 -0300" stop="20221205163000 -0300" channel="Euronews">
+    <title lang="es">Euronews Now</title>
+  </programme>
+  <programme start="20221205163000 -0300" stop="20221205164500 -0300" channel="Euronews">
+    <title lang="es">Euronews Now</title>
+  </programme>
+  <programme start="20221205164500 -0300" stop="20221205170000 -0300" channel="Euronews">
+    <title lang="es">Euronews Now</title>
+  </programme>
+  <programme start="20221205170000 -0300" stop="20221205171500 -0300" channel="Euronews">
+    <title lang="es">Euronews Now</title>
+  </programme>
+  <programme start="20221205171500 -0300" stop="20221205173000 -0300" channel="Euronews">
+    <title lang="es">Euronews Now</title>
+  </programme>
+  <programme start="20221205173000 -0300" stop="20221205174500 -0300" channel="Euronews">
+    <title lang="es">Euronews Now</title>
+  </programme>
+  <programme start="20221205174500 -0300" stop="20221205180000 -0300" channel="Euronews">
+    <title lang="es">Euronews Now</title>
+  </programme>
+  <programme start="20221205180000 -0300" stop="20221205181500 -0300" channel="Euronews">
+    <title lang="es">Euronews Now</title>
+  </programme>
+  <programme start="20221205181500 -0300" stop="20221205183000 -0300" channel="Euronews">
+    <title lang="es">Euronews Now</title>
+  </programme>
+  <programme start="20221205183000 -0300" stop="20221205184500 -0300" channel="Euronews">
+    <title lang="es">Euronews Now</title>
+  </programme>
+  <programme start="20221205184500 -0300" stop="20221205190000 -0300" channel="Euronews">
+    <title lang="es">Euronews Now</title>
+  </programme>
+  <programme start="20221205190000 -0300" stop="20221205191500 -0300" channel="Euronews">
+    <title lang="es">Euronews Now</title>
+  </programme>
+  <programme start="20221205191500 -0300" stop="20221205193000 -0300" channel="Euronews">
+    <title lang="es">Euronews Now</title>
+  </programme>
+  <programme start="20221205193000 -0300" stop="20221205194500 -0300" channel="Euronews">
+    <title lang="es">Euronews Now</title>
+  </programme>
+  <programme start="20221205194500 -0300" stop="20221205200000 -0300" channel="Euronews">
+    <title lang="es">Euronews Now</title>
+  </programme>
+  <programme start="20221205200000 -0300" stop="20221205201500 -0300" channel="Euronews">
+    <title lang="es">Euronews Now</title>
+  </programme>
+  <programme start="20221205201500 -0300" stop="20221205203000 -0300" channel="Euronews">
+    <title lang="es">Euronews Now</title>
+  </programme>
+  <programme start="20221205203000 -0300" stop="20221205204500 -0300" channel="Euronews">
+    <title lang="es">Euronews Now</title>
+  </programme>
+  <programme start="20221205204500 -0300" stop="20221205210000 -0300" channel="Euronews">
+    <title lang="es">Euronews Now</title>
+  </programme>
+  <programme start="20221205210000 -0300" stop="20221205211500 -0300" channel="Euronews">
+    <title lang="es">Euronews Now</title>
+  </programme>
+  <programme start="20221205211500 -0300" stop="20221205213000 -0300" channel="Euronews">
+    <title lang="es">Euronews Now</title>
+  </programme>
+  <programme start="20221205213000 -0300" stop="20221205214500 -0300" channel="Euronews">
+    <title lang="es">Euronews Now</title>
+  </programme>
+  <programme start="20221205214500 -0300" stop="20221205220000 -0300" channel="Euronews">
+    <title lang="es">Euronews Now</title>
+  </programme>
+  <programme start="20221205220000 -0300" stop="20221205221500 -0300" channel="Euronews">
+    <title lang="es">Euronews Now</title>
+  </programme>
+  <programme start="20221205221500 -0300" stop="20221205223000 -0300" channel="Euronews">
+    <title lang="es">Euronews Now</title>
+  </programme>
+  <programme start="20221205223000 -0300" stop="20221205224500 -0300" channel="Euronews">
+    <title lang="es">Euronews Now</title>
+  </programme>
+  <programme start="20221205224500 -0300" stop="20221205230000 -0300" channel="Euronews">
+    <title lang="es">Euronews Now</title>
+  </programme>
+  <programme start="20221205230000 -0300" stop="20221205231500 -0300" channel="Euronews">
+    <title lang="es">Euronews Now</title>
+  </programme>
+  <programme start="20221205231500 -0300" stop="20221205233000 -0300" channel="Euronews">
+    <title lang="es">Euronews Now</title>
+  </programme>
+  <programme start="20221205233000 -0300" stop="20221205234500 -0300" channel="Euronews">
+    <title lang="es">Euronews Now</title>
+  </programme>
+  <programme start="20221205234500 -0300" stop="20221206000000 -0300" channel="Euronews">
+    <title lang="es">Euronews Now</title>
+  </programme>
+  <programme start="20221206000000 -0300" stop="20221206001500 -0300" channel="Euronews">
+    <title lang="es">Good Morning Europe</title>
+  </programme>
+  <programme start="20221206001500 -0300" stop="20221206003000 -0300" channel="Euronews">
+    <title lang="es">Good Morning Europe</title>
+  </programme>
+  <programme start="20221206003000 -0300" stop="20221206004500 -0300" channel="Euronews">
+    <title lang="es">Good Morning Europe</title>
+  </programme>
+  <programme start="20221206004500 -0300" stop="20221206010000 -0300" channel="Euronews">
+    <title lang="es">Good Morning Europe</title>
+  </programme>
+  <programme start="20221206010000 -0300" stop="20221206011500 -0300" channel="Euronews">
+    <title lang="es">Good Morning Europe</title>
+  </programme>
+  <programme start="20221206011500 -0300" stop="20221206013000 -0300" channel="Euronews">
+    <title lang="es">Good Morning Europe</title>
+  </programme>
+  <programme start="20221206013000 -0300" stop="20221206014500 -0300" channel="Euronews">
+    <title lang="es">Good Morning Europe</title>
+  </programme>
+  <programme start="20221206014500 -0300" stop="20221206020000 -0300" channel="Euronews">
+    <title lang="es">Good Morning Europe</title>
+  </programme>
+  <programme start="20221204010000 -0300" stop="20221204030000 -0300" channel="TNT Sports">
+    <title lang="es">Fútbol argentino Primera División</title>
+  </programme>
+  <programme start="20221204030000 -0300" stop="20221204050000 -0300" channel="TNT Sports">
+    <title lang="es">Fútbol argentino Primera División</title>
+  </programme>
+  <programme start="20221204050000 -0300" stop="20221204060000 -0300" channel="TNT Sports">
+    <title lang="es">Recuerdos de Selección</title>
+  </programme>
+  <programme start="20221204060000 -0300" stop="20221204080000 -0300" channel="TNT Sports">
+    <title lang="es">Fútbol argentino Primera División</title>
+  </programme>
+  <programme start="20221204080000 -0300" stop="20221204100000 -0300" channel="TNT Sports">
+    <title lang="es">Fútbol argentino Primera División</title>
+  </programme>
+  <programme start="20221204100000 -0300" stop="20221204103000 -0300" channel="TNT Sports">
+    <title lang="es">Todo sobre Diego</title>
+  </programme>
+  <programme start="20221204103000 -0300" stop="20221204110000 -0300" channel="TNT Sports">
+    <title lang="es">Todo sobre Diego</title>
+  </programme>
+  <programme start="20221204110000 -0300" stop="20221204130000 -0300" channel="TNT Sports">
+    <title lang="es">Fútbol argentino Primera División</title>
+  </programme>
+  <programme start="20221204130000 -0300" stop="20221204140000 -0300" channel="TNT Sports">
+    <title lang="es">Recuerdos de Selección</title>
+  </programme>
+  <programme start="20221204140000 -0300" stop="20221204150000 -0300" channel="TNT Sports">
+    <title lang="es">Historias de El Gráfico</title>
+  </programme>
+  <programme start="20221204150000 -0300" stop="20221204153000 -0300" channel="TNT Sports">
+    <title lang="es">Todo sobre Diego</title>
+  </programme>
+  <programme start="20221204153000 -0300" stop="20221204160000 -0300" channel="TNT Sports">
+    <title lang="es">Todo sobre Diego</title>
+  </programme>
+  <programme start="20221204160000 -0300" stop="20221204170000 -0300" channel="TNT Sports">
+    <title lang="es">Vino para quedarse</title>
+  </programme>
+  <programme start="20221204170000 -0300" stop="20221204180000 -0300" channel="TNT Sports">
+    <title lang="es">Recuerdos de Selección</title>
+  </programme>
+  <programme start="20221204180000 -0300" stop="20221204190000 -0300" channel="TNT Sports">
+    <title lang="es">TNT Sports Mundial</title>
+  </programme>
+  <programme start="20221204190000 -0300" stop="20221204210000 -0300" channel="TNT Sports">
+    <title lang="es">TNT Sports Mundial</title>
+  </programme>
+  <programme start="20221204210000 -0300" stop="20221204211000 -0300" channel="TNT Sports">
+    <title lang="es">Data Mundial</title>
+  </programme>
+  <programme start="20221204211000 -0300" stop="20221204231000 -0300" channel="TNT Sports">
+    <title lang="es">TNT Sports Mundial Radio</title>
+  </programme>
+  <programme start="20221204231000 -0300" stop="20221205000000 -0300" channel="TNT Sports">
+    <title lang="es">Recuerdos de Selección</title>
+  </programme>
+  <programme start="20221205000000 -0300" stop="20221205003000 -0300" channel="TNT Sports">
+    <title lang="es">Vino para quedarse</title>
+  </programme>
+  <programme start="20221205003000 -0300" stop="20221205010000 -0300" channel="TNT Sports">
+    <title lang="es">Potreros de América</title>
+  </programme>
+  <programme start="20221205010000 -0300" stop="20221205030000 -0300" channel="TNT Sports">
+    <title lang="es">Fútbol argentino Primera División</title>
+  </programme>
+  <programme start="20221205030000 -0300" stop="20221205050000 -0300" channel="TNT Sports">
+    <title lang="es">Fútbol argentino Primera División</title>
+  </programme>
+  <programme start="20221205050000 -0300" stop="20221205060000 -0300" channel="TNT Sports">
+    <title lang="es">Recuerdos de Selección</title>
+  </programme>
+  <programme start="20221205060000 -0300" stop="20221205080000 -0300" channel="TNT Sports">
+    <title lang="es">Fútbol argentino Primera División</title>
+  </programme>
+  <programme start="20221205080000 -0300" stop="20221205100000 -0300" channel="TNT Sports">
+    <title lang="es">Fútbol argentino Primera División</title>
+  </programme>
+  <programme start="20221205100000 -0300" stop="20221205103000 -0300" channel="TNT Sports">
+    <title lang="es">Todo sobre Diego</title>
+  </programme>
+  <programme start="20221205103000 -0300" stop="20221205110000 -0300" channel="TNT Sports">
+    <title lang="es">Todo sobre Diego</title>
+  </programme>
+  <programme start="20221205110000 -0300" stop="20221205130000 -0300" channel="TNT Sports">
+    <title lang="es">Fútbol argentino Primera División</title>
+  </programme>
+  <programme start="20221205130000 -0300" stop="20221205140000 -0300" channel="TNT Sports">
+    <title lang="es">Recuerdos de Selección</title>
+  </programme>
+  <programme start="20221205140000 -0300" stop="20221205160000 -0300" channel="TNT Sports">
+    <title lang="es">TNT Sports Mundial</title>
+  </programme>
+  <programme start="20221205160000 -0300" stop="20221205163000 -0300" channel="TNT Sports">
+    <title lang="es">Todo sobre Diego</title>
+  </programme>
+  <programme start="20221205163000 -0300" stop="20221205170000 -0300" channel="TNT Sports">
+    <title lang="es">Confesiones</title>
+  </programme>
+  <programme start="20221205190000 -0300" stop="20221205205500 -0300" channel="TNT Sports">
+    <title lang="es">TNT Sports Mundial</title>
+  </programme>
+  <programme start="20221205205500 -0300" stop="20221205210500 -0300" channel="TNT Sports">
+    <title lang="es">Data Mundial</title>
+  </programme>
+  <programme start="20221205210500 -0300" stop="20221205230000 -0300" channel="TNT Sports">
+    <title lang="es">TNT Sports Mundial Radio</title>
+  </programme>
+  <programme start="20221205230000 -0300" stop="20221206010000 -0300" channel="TNT Sports">
+    <title lang="es">TNT Sports Mundial Radio</title>
+  </programme>
+  <programme start="20221206230000 -0300" stop="20221207010000 -0300" channel="TNT Sports">
+    <title lang="es">TNT Sports Mundial Radio</title>
+  </programme>
+  <programme start="20221207010000 -0300" stop="20221207030000 -0300" channel="TNT Sports">
+    <title lang="es">TNT Sports en CNN Radio</title>
+  </programme>
+  <programme start="20221207030000 -0300" stop="20221207050000 -0300" channel="TNT Sports">
+    <title lang="es">Fútbol argentino Primera División</title>
+  </programme>
+  <programme start="20221207060000 -0300" stop="20221207080000 -0300" channel="TNT Sports">
+    <title lang="es">TNT Sports Mundial Radio</title>
+  </programme>
+  <programme start="20221207080000 -0300" stop="20221207100000 -0300" channel="TNT Sports">
+    <title lang="es">Fútbol argentino Primera División</title>
+  </programme>
+  <programme start="20221207110000 -0300" stop="20221207130000 -0300" channel="TNT Sports">
+    <title lang="es">Fútbol argentino Primera División</title>
+  </programme>
+  <programme start="20221207140000 -0300" stop="20221207160000 -0300" channel="TNT Sports">
+    <title lang="es">TNT Sports Mundial</title>
+  </programme>
+  <programme start="20221207160000 -0300" stop="20221207163000 -0300" channel="TNT Sports">
+    <title lang="es">Todo sobre Diego</title>
+  </programme>
+  <programme start="20221207163000 -0300" stop="20221207170000 -0300" channel="TNT Sports">
+    <title lang="es">Vino para quedarse</title>
+  </programme>
+  <programme start="20221207170000 -0300" stop="20221207180000 -0300" channel="TNT Sports">
+    <title lang="es">Recuerdos de Selección</title>
+  </programme>
+  <programme start="20221207180000 -0300" stop="20221207190000 -0300" channel="TNT Sports">
+    <title lang="es">TNT Sports Mundial</title>
+  </programme>
+  <programme start="20221207190000 -0300" stop="20221207205500 -0300" channel="TNT Sports">
+    <title lang="es">TNT Sports Mundial</title>
+  </programme>
+  <programme start="20221207205500 -0300" stop="20221207210500 -0300" channel="TNT Sports">
+    <title lang="es">Data Mundial</title>
+  </programme>
+  <programme start="20221207210500 -0300" stop="20221207230000 -0300" channel="TNT Sports">
+    <title lang="es">TNT Sports Mundial Radio</title>
+  </programme>
+  <programme start="20221208030000 -0300" stop="20221208050000 -0300" channel="TNT Sports">
+    <title lang="es">Fútbol argentino Primera División</title>
+  </programme>
+  <programme start="20221208080000 -0300" stop="20221208100000 -0300" channel="TNT Sports">
+    <title lang="es">Fútbol argentino Primera División</title>
+  </programme>
+  <programme start="20221208110000 -0300" stop="20221208130000 -0300" channel="TNT Sports">
+    <title lang="es">Fútbol argentino Primera División</title>
+  </programme>
+  <programme start="20221208163000 -0300" stop="20221208170000 -0300" channel="TNT Sports">
+    <title lang="es">Potreros de América</title>
+  </programme>
+</tv>
